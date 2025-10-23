@@ -1,21 +1,21 @@
 ﻿l_spanish:
 
 
- rk_the_red_keep_domicile_title: "The Red Keep"
- red_keep_estate_domicile_title: "Red Keep"  
- red_keep_estate_domicile_type: "Red Keep"   
- red_keep_estate_domicile_type_tooltip: "the Red Keep"
- red_keep_estate_move_desc: "#italic The Red Keep domicile icon might spawn elsewhere. Use this button to relocate it to King's Landing.#!" 
+ rk_the_red_keep_domicile_title: "la Fortaleza Roja"
+ red_keep_estate_domicile_title: "Fortaleza Roja"  
+ red_keep_estate_domicile_type: "Fortaleza Roja"   
+ red_keep_estate_domicile_type_tooltip: "la Fortaleza Roja"
+ red_keep_estate_move_desc: "#italic El icono del domicilio de la Fortaleza Roja podría aparecer en otro lugar. Usa este botón para reubicarlo en Desembarco del Rey.#!" 
  
  
  iron_throne_government_with_icon:0 "@government_type_feudal! $iron_throne_government$"
- iron_throne_government:0 "Iron Throne"
- iron_throne_government_adjective: "Iron Throne"
- iron_throne_government_realm: "Iron Throne"
- iron_throne_government_filter_option:0 "Iron Throne"
- iron_throne_government_filter_option_desc:0 "Only show characters with Iron Throne [government|E]"
- iron_throne_government_vassals_label:0 "Feudal [obligations|E] are based on each [vassal|E]'s [vassal_contract|E]"
- iron_throne_government_desc:1 "$game_concept_feudal_desc$\n\n#F When the Targaryens forged the realm and the Iron Throne, they bound the Houses, both Great and Small, into a system of oaths and obligations from the smallest of Landed Knights to the Lords Paramount and former royal Lords. These oaths and obligations are only strong as the men and women who swear and hold them, and often are interpreted by the lords in varied ways."
+ iron_throne_government:0 "Trono de Hierro"
+ iron_throne_government_adjective: "Trono de Hierro"
+ iron_throne_government_realm: "Trono de Hierro"
+ iron_throne_government_filter_option:0 "Trono de Hierro"
+ iron_throne_government_filter_option_desc:0 "Mostrar solo personajes con el [government|E] Trono de Hierro"
+ iron_throne_government_vassals_label:0 "[obligations|E] feudales estan se basan en el [vassal_contract|E] de cada [vassal|E]"
+ iron_throne_government_desc:0 "$game_concept_feudal_desc$\n\n#F Cuando los Targaryen forjaron el reino y el Trono de Hierro, unieron a las Casas, tanto las Grandes como las menores, en un sistema de juramentos y obligaciones que abarca desde los más humildes caballeros con tierras hasta los Señores Supremos y antiguos señores reales. Estos juramentos y obligaciones son tan firmes como los hombres y mujeres que los juran y sostienen, y a menudo son interpretados de formas muy distintas por los señores que los cumplen."
  government_is_iron_throne:0 "[government|E] type is [GetGovernment( 'iron_throne_government' ).GetName]"
  iron_throne_government_vassal:0 "$lp_feudal_government$"
  iron_throne_government_vassal_desc:0 "$game_concept_feudal_desc$" 
@@ -447,4 +447,5 @@
  
  
  
+
  
