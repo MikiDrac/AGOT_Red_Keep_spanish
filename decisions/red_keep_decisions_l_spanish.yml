@@ -1,0 +1,173 @@
+﻿l_spanish:
+
+
+ # Review Defences
+ rk_review_defences_decision_title: "Prepare King's Landing for War"
+ rk_review_defences_decision_desc: "War is upon us and the question of whether King's Landing is prepared for a long and grueling siege weighs heavily. The city's defenses, from the towering walls of the Red Keep to the narrow streets below, must be examined in detail. Every potential weakness, every resource, and every line of defense must be considered.\n\nIt is time to decide if the capital is truly ready to endure the trials of war should the enemy knock on our gates."
+ rk_review_defences_decision_tooltip: "Review King's Landing's defenses in preparation for a siege."
+ rk_review_defences_decision_confirm_text: "To the Walls!"
+ rk_review_defences_decision_effect_tooltip: "You will attempt to temporarily raise the [fort_level|E] and [garrison|E] in the [GetTitleByKey('c_kings_landing').GetName] in preparation for a possible [siege|E]."
+ 
+ 
+ #Go for a Ride
+ rk_go_for_a_ride_decision_title: "Go for a Ride"
+ rk_go_for_a_ride_decision_desc: "The hustle of court can grind even the hardiest monarch down. I need to get out of the city for a while. Beyond the city walls, the countryside calls. For a day, or two, let the Iron Throne wait."
+ rk_go_for_a_ride_decision_tooltip: "Mount your horse and go for a ride in the countryside."
+ rk_go_for_a_ride_decision_confirm_text: "Let the wind guide me."
+ rk_go_for_a_ride_decision_effect_tooltip: "You may lose some [stress|E] or encounter a random riding #E Event#!."
+ rk_ride_toast_1: "Your ride goes smoothly."
+ rk_ride_toast_2: "You improve your riding skills."
+ rk_ride_toast_3: "You have a riding accident.
+ rk_ride_toast_3_desc: "The ride was going well until your mount startled and throwed you off."
+ rk_ride_toast_2_desc: "After today's ride you feel much more confident on the saddle."
+ rk_ride_toast_1_desc: "You have a pleasant ride."
+ rk_ride_toast_4_desc: "The smallfolk around King's landing have noticed your royal presence riding in the countryside."
+ rk_ride_toast_4: "Observed by the Smallfolk" 
+ rk_ride_toast_5_desc: "Riding out with knights and banners, your royal colors have made a clear statement across the countryside."
+ rk_ride_toast_5: "King's Colors Displayed." 
+ rk_ride_toast_6: "Gained Noble insights."
+ rk_ride_toast_6_desc: "You were joined by the lesser nobility in your ride, gathering some interesting insights."
+ rk_ride_toast_7: "Royal Benevolence Witnessed"
+ rk_ride_toast_7_desc: "A rumour spreads amongst the commonfolk about your kindness." 
+ rk_ride_toast_8: "Gained Noble insights."
+ 
+ #Request Grain from the Reach
+ REQUEST_GRAIN: "Request the grain"
+ rk_request_grain_reach_decision_title: "Request Grain from the Reach"
+ rk_request_grain_reach_decision_title_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_request_grain_reach_decision_title_tooltip: "Send an envoy to the Reach to request a large shipment of grain."
+ rk_request_grain_reach_decision_confirm_text: "Dispatch the envoy"
+ rk_buy_grain_decision_tooltip: "You purchase grain to feed King’s Landing, paying with [gold|E]."
+ rk_buy_grain_name: "Pay for the grain"
+ rk_buy_grain_tooltip: "You purchase grain to feed the hungry mouths of King’s Landing, paying with [gold|E]."
+ rk_hook_grain_name: "Offer a Favor"
+ rk_hook_grain_tooltip: "You extend a promise of future aid in exchange for grain to feed King's Landing."
+ rk_reach_allied_name: "Invoke your Alliance"
+ rk_reach_allied_tooltip: "You remind your ally of your bond, urging them to send grain to your cause."
+ rk_leverage_opinion_name: "Appeal to Friendship"
+ rk_leverage_opinion_tooltip: "You rely on strong relations to persuade the Reach to aid King's Landing in this time of need."
+ rk_royal_decree_desc_name: "Issue a Royal Decree"
+ rk_royal_decree_tooltip: "Invoke royal authority to demand grain from the Reach—should they fear your power, they will obey."
+ rk_use_strong_hook_name: "Call in a favor"
+ rk_use_strong_hook_tooltip: "We can use our strong hook to call in a favor in exchange for the grain."
+ rk_reach_grain_arrives_title: "The Reach sends Grain"
+ rk_reach_grain_arrives_desc: "A large shipment of grain from the Reach has arrived in King's Landing."
+ rk_buy_grain_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_hook_grain_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_reach_allied_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_leverage_opinion_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_royal_decree_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable."
+ rk_use_strong_hook_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. Requesting a large supply of grain may secure the stability of the capital—if the Reach proves amenable." 
+ 
+ 
+ 
+ #Unify Crackclaw Point
+ 
+ rk_unify_crackclaw_decision_title: "Unify Cracklaw Point"
+ rk_unify_crackclaw_decision_desc: "Crackclaw Point has long been a wild and divided land — a finger of salt marshes, pine woods, and stubborn lords who bow to no banner but the Iron Throne. Yet the world grows more dangerous, and the Crown cannot watch every shore. Perhaps the time has come for one voice to speak for the whole. Through blood, gold, or oaths, the time has come to unify Crackclaw Point under a single high lord."
+ rk_unify_crackclaw_decision_tooltip: "Begin efforts to centralize power in Crackclaw Point and claim the title of High Lord."
+ rk_unify_crackclaw_decision_confirm_text: "The Realm needs Order"
+ rk_unify_crackclaw_decision_effect_tooltip: "You will meet with your Hand to start the process of consolidating Cracklaw Point under one Lord." 
+ 
+ #Entertain court
+ 
+ rk_play_for_the_court_decision_title: "Perform Before the Court"
+ rk_play_for_the_court_decision_desc: "You are not only a ruler, but a poet — a soul touched by the muses. With lute in hand and verse in heart, you may share your gift with the court, elevating their spirits and your own prestige."
+ rk_play_for_the_court_decision_tooltip: "Take up your lute and recite poetry of your own making to charm and inspire your court."
+ rk_play_for_the_court_decision_confirm_text: "Let the hall fall silent, and the song begin."
+ rk_play_for_the_court_decision_effect_tooltip: "You may gain [prestige|E], [piety|E], courtier opinion and possibly inspire those who hear your art."
+ 
+ # Blessing
+ 
+ rk_blessing_decision_title: "Request the High Septon's Blessing"
+ rk_blessing_decision_desc: "By seeking the High Septon's blessing, you reaffirm your rule in the eyes of the Faith and your people."
+ rk_blessing_decision_tooltip: "Seek the favor and divine approval of the High Septon, securing the Faith's blessing upon your reign."
+ rk_blessing_decision_confirm_text: "Send for the High Septon"
+ rk_blessing_decision_effect_tooltip: "You will pay [gold|E] and [piety|E] to receive a temporary blessing from the High Septon, improving your standing among the faithful."
+ 
+ #Visit the City in Disguise
+ 
+ rk_visit_the_city_decision_title: "Enter King's Landing in Disguise"
+ rk_visit_the_city_decision_title_desc: "It is said that a wise ruler knows their people. Cloaked in secrecy and dressed as a commoner, I shall walk the streets of my City to see the realm with my own eyes, unfiltered by courtly whispers."
+ rk_visit_the_city_decision_title_tooltip: "Disguise yourself and visit King’s Landing as a commoner."
+ rk_visit_the_city_decision_title_confirmation_text: "I shall walk among them, unseen."
+ rk_visit_the_city_decision_title_effect_tooltip: "You will travel incognito through the streets of King's Landing, observing the lives of your subjects. What you see may shape your rule—or your heart."
+ 
+ #Visit the Alchemist Guild   
+    
+ rk_visit_alchemist_guild_title: "Visit the Alchemist's Guild"
+ rk_visit_alchemist_guild_desc: "The Alchemists of King's Landing are said to wield arcane knowledge, remnants of the sorcery of Valyria. A visit may yield useful tools… or terrible consequences."
+ rk_visit_alchemist_guild_tooltip: "Consult the pyromancers and delve into their secretive arts. There may be rewards—or dangers."
+ rk_visit_alchemist_guild_confirmation_text: "Enter the Alchemist Guildhall"
+ rk_visit_alchemist_guild_effect_tooltip: "You will visit the Alchemist Guild, potentially gaining knowledge, wildfire, or intrigue. But beware—their arts are not without risk."
+ 
+ #Use the wildfire
+ rk_use_wildfire_decision_title: "Deploy the Wildfire Stockpile"
+ rk_use_wildfire_decision_desc.a: "Your small wildfire stockpiles beneath the Red Keep now count up to two thousand pots ready to be used. The Substance can be unleashed in in war, or for darker purposes. Once loosed, there is no turning back."
+ rk_use_wildfire_decision_desc.b: "Your moderate wildfire stockpiles beneath the Red Keep now count up to four thousand pots ready to be used. The Substance can be unleashed in in war, or for darker purposes. Once loosed, there is no turning back."
+ rk_use_wildfire_decision_desc.c: "Your large wildfire stockpiles beneath the Red Keep now count up to up to six thousand pots ready to be used. The Substance can be unleashed in in war, or for darker purposes. Once loosed, there is no turning back."
+ rk_use_wildfire_decision_desc.d: "Your enormous wildfire stockpiles beneath the Red Keep have swollen and are now filled to the brim with up to ten thousand pots ready to be used. The Substance can be unleashed in war, or for darker purposes. Once loosed, there is no turning back."
+ rk_use_wildfire_decision_tooltip: "Decide how to best use your Wildfire stockpile."
+ rk_use_wildfire_decision_confirmation_text: "Summon the Pyromancers"
+ rk_use_wildfire_decision_title_effect_tooltip: "You will decide how to best use your Wildfire stockpile."
+ 
+ #Expand Royal Demesne
+ 
+ rk_expand_royal_demesne_decision_title: "Expand the Royal Demesne"
+ rk_expand_royal_demesne_decision_desc: "Though I rule Westeros through my vassals, my personal holdings in the Crownlands are de facto limited to the Red Keep. It would strengthen both the throne and realm to expand my direct control over lands beyond these walls."
+ rk_expand_royal_demesne_decision_tooltip: "Begin efforts to expand the Royal Demesne north of King's Landing."
+ rk_expand_royal_demesne_decision_confirm_text: "The throne needs land"
+ rk_expand_royal_demesne_decision_effect_tooltip: "You will start a project to survey and claim new crown lands north of King's Landing."
+ 
+ rk_convene_guilds_decision_title: "Convene the Guilds of King's Landing"
+ rk_convene_guilds_decision_desc: "The guilds of King's Landing hold great influence over trade, labor, and the hearts of the smallfolk. By summoning their leaders to the Red Keep, I can forge alliances, negotiate privileges, or assert royal authority. Such dealings may bring prosperity — or unrest."
+ rk_convene_guilds_decision_tooltip: "Hold an audience with the major guilds of King's Landing, negotiating trade, authority, and influence. The outcomes may be bountiful or disastrous."
+ rk_convene_guilds_decision_confirm_text: "Summon the Guildmasters"
+ rk_convene_guilds_decision_effect_tooltip: "Begins a multi-phase negotiation event chain with the guilds of King's Landing. Outcomes depend on your traits, skills, and choices."
+ 
+ rk_visit_the_wall_decision_title: "Journey to the Wall"
+ rk_visit_the_wall_decision_desc: "The Wall stands as the realm’s northern bulwark, yet many at court treat it as a relic. I will ride north myself to see with my own eyes its strength, its men, and the truth of the dangers that lie beyond."
+ rk_visit_the_wall_decision_tooltip: "Travel to the Wall and meet with the Lord Commander."
+ rk_visit_the_wall_decision_confirm_text: "Set out for the Wall"
+ rk_visit_the_wall_decision_effect_tooltip: "You begin your journey to the Wall."
+ 
+ rk_visit_the_street_of_silk_decision_title: "Visit the Street of Silk"
+ rk_visit_the_street_of_silk_decision_desc: "The Street of Silk beckons with lantern-lit windows and whispered promises. A quiet excursion may ease the weight of the Iron Throne—so long as discretion is kept."
+ rk_visit_the_street_of_silk_decision_tooltip: "Spend a modest sum to unwind incognito in King’s Landing’s famed pleasure district."
+ rk_visit_the_street_of_silk_decision_confirm_text: "Let's see the sights"
+ rk_visit_the_street_of_silk_decision_effect_tooltip: "You will visit the Street of Silk famous for its #italic exclusive#! establishments."
+ 
+ rk_request_grain_reach_owned_decision_title: "Transfer Grain from the Reach"
+ rk_request_grain_reach_owned_decision_desc: "The Reach is the breadbasket of Westeros, its fields ever fertile and its granaries well-stocked. As ruler of the Reach I can transfer a large supply of grain which may secure the stability of the capital."
+ rk_request_grain_reach_owned_decision_tooltip: "Organise a large shipment of grain."
+ rk_request_grain_reach_owned_decision_confirm_text: "Transfer the Grain"
+ rk_request_grain_reach_owned_decision_effect_tooltip: "You will transport a large shipment of grain to feed capital form the Reach."
+ 
+ rk_summon_gc_commander_decision_title: "Summon the Commander of the City Watch"
+ rk_summon_gc_commander_decision_desc: "Call the Lord Commander of the City Watch to the Red Keep. You may choose how the Goldcloaks will serve the realm — by cracking down on unrest, adjusting their funding, or cleansing corruption from their ranks."
+ rk_summon_gc_commander_decision_tooltip: "Meet with the Lord Commander of the Goldcloaks and decide the Watch’s course of action."
+ rk_summon_gc_commander_decision_confirm_text: "Summon Him"
+ rk_summon_gc_commander_decision_effect_tooltip: "The Lord Commander will present you with options to direct the Goldcloaks."
+ 
+ ###CITY STENCH DECISIONS
+ 
+ rk_city_stench_decision_title: "Address the Stench of King’s Landing"
+ rk_city_stench_decision_desc: "The reek of King’s Landing has grown intolerable, seeping even into the Red Keep. If the Iron Throne is to stand as the heart of the realm, the city must be cleansed — but doing so will demand coin, resolve, and years of work."
+ rk_city_stench_decision_tooltip: "Begin the effort to confront the foul stench of King’s Landing."
+ rk_city_stench_decision_confirm_text: "Summon the Hand of the King"
+ rk_city_stench_decision_effect_tooltip: "You will begin reforms to cleanse King's Landing. Large amounts of [gold|E] will be required in this endevour. You will only get once chance to fix the issue."
+ 
+ 
+ ##ROYAL MINT DECISIONS
+ 
+ rk_establish_royal_mint_decision_title: "Centralise the Royal Mint"
+ rk_establish_royal_mint_decision_desc: "The coinage of the realm is scattered and without order, struck in many places and bearing no single authority. By calling upon the Master of Coin, you may establish a Royal Mint in King’s Landing and ensure that every dragon, stag, and star flows first through your hand."
+ rk_establish_royal_mint_decision_tooltip: "You summon the Master of Coin to discuss the establishment of a Royal Mint in King’s Landing."
+ rk_establish_royal_mint_decision_confirm_text: "Summon the Master of Coin"
+ rk_establish_royal_mint_decision_effect_tooltip: "You centralise coinage production in King’s Landing, creating a new source of profit through seigniorage and strengthening royal authority."
+ 
+ rk_summon_master_coin_decision_title: "Summon the Master of Coin"
+ rk_summon_master_coin_decision_desc: "The realm’s wealth flows not only through the mint but also through its ports, where wine, silver, and spices are weighed against dragons and stags. By calling upon the Master of Coin, you may decide whether to debase or restore the coinage, or to raise new tariffs on the trade that fills your harbors."
+ rk_summon_master_coin_decision_decision_tooltip: "You summon the Master of Coin to your solar, opening counsel on coinage and tariffs."
+ rk_summon_master_coin_decision_confirm_text: "Summon the Master of Coin"
+ rk_summon_master_coin_decision_effect_tooltip: "The Master of Coin will present you with options to adjust the coinage or levy new port tariffs."

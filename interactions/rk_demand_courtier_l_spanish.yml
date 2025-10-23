@@ -1,0 +1,6 @@
+﻿l_spanish:
+ rk_demand_courtier_interaction: "$demand_courtier_interaction$"
+ rk_demand_courtier_crown_authority_tt: "You must possess a higher level of [crown_authority|E]"
+ rk_demand_courtier_interaction_2: "Demand a [courtier|E] from your [vassal|E] [recipient.GetTitledFirstNameNoTooltip]\n\n
+ ADMINISTRATIVE_REASON: "[administrative|E] hierarchy: $VALUE|=+0$"
+ 

@@ -1,0 +1,137 @@
+﻿l_spanish:
+
+ rk_travel.0001.t: "The Shadow of the Spear"
+ rk_travel.0001.desc: "As I draw near to Sunspear, the oppressive heat of Dorne settles upon my body. The city is a sprawling maze of mud-brick walls and twisting, narrow alleys, a stark contrast to the familiar castles of the Crownlands. I pause my journey to admire the iconic Spear Tower—shining like a needle in the sun—and the Tower of the Sun, whose gilded dome gleams brilliantly.\n\nSuddenly, a Dornish knight, wearing colours of House [rk_sun_lord.GetDynasty.GetNameNoTooltip], approaches on a fine courser. 'My [rk_sun_lord.GetLadyLord|U], [rk_sun_lord.GetTitledFirstName] of House [rk_sun_lord.GetDynasty.GetNameNoTooltip] is honored by your presence in Dorne, Your Grace,' he says, his voice soft but firm. 'They await you at the Old Palace. It would be their great pleasure to host the [ROOT.Char.GetTitleTierName|U] of the Andals, the Rhoynar, and the First Men.'\n\nDo we accept this generous, if perhaps guarded, invitation?"
+ 
+ rk_travel.0001.a: "Accept the generous hospitality of House [rk_sun_lord.GetDynasty.GetNameNoTooltip]."
+ rk_travel.0001.a_tt: "You follow the Knight into the City."
+ 
+ rk_travel.0001.b: "Decline. I must press on my journey."
+ rk_travel.0001.b_tt: "Decline the invitation."
+
+ rk_travel.0002.t: "The Bazaar of Sunspear"
+ rk_travel.0002.desc: "Having accepted the invitation, we follow the knight through the heart of Sunspear. The air is thick with the smell of sand, spices, and the sweat of a thousand people. The streets are a twisting, chaotic tangle, lined with pale, sun-baked mud-brick buildings that seem to defy the logic of traditional Westerosi architecture. There are no great cobbled roads here, only dust and shouting.\n\nSuddenly, the narrow passage opens into a sprawling, vibrant market—a stark contrast to the rest of the city. Here, merchants hawk their wares beneath bright, striped awnings. We see carts piled high with*peaches, lemons, and dates, beside barrels of Dornish sour red wine and fragrant, exotic spices. There are silks in every colour, steel daggers, and even unusual pets from the Summer Isles. The knight glances back at us, awaiting our command."
+ 
+ rk_travel.0002.a: "Take a moment to sample the local wares."
+ rk_travel.0002.a_tt: "Spend a few hours observing the Dornish people and perhaps purchasing some goods."
+ rk_travel.0002.toast_a: "You observe the Market at Sunspear."
+ rk_travel.0002.b: "Tell the knight to proceed immediately to the Old Palace."
+ rk_travel.0002.b_tt: "We should not keep [rk_sun_lord.GetTitledFirstNameNoTooltip] waiting."
+
+
+ rk_travel.0003.t: "A Viper's Welcome"
+ rk_travel.0003.desc: "The knight guides us through the labyrinthine Old Palace, leading us at last into a sun-drenched, spacious hall where [rk_sun_lord.GetTitledFirstNameNoTooltip] awaits. The atmosphere is immediately lavish, yet guarded.\n\n[rk_sun_lord.GetTitledFirstNameNoTooltip] rises to greet us with a smile that doesn't quite reach their eyes. 'Your Grace, you honor Dorne with your visit,' they declare, gesturing toward a table laden with fresh fruits, spiced goat, and flasks of sour red wine. The conversation that follows is subtle, moving from polite inquiries to topics of ancient grievances and the unique position of the Martells within the Seven Kingdoms.\n\nIt is clear that every word, every gesture, is being weighed. How shall we navigate this delicate dance of Dornish diplomacy?"
+ 
+ rk_travel.0003.a: "Offer a gift and assure them of my goodwill."
+ rk_travel.0003.a_tt: "Show diplomatic respect to [rk_sun_lord.GetTitledFirstNameNoTooltip]"
+ rk_travel.0003.toast_a: "[rk_sun_lord.GetTitledFirstNameNoTooltip] accepts your gift!"
+ 
+ rk_travel.0003.b: "Gently steer the conversation away from historical slights."
+ rk_travel.0003.b_tt: "Focus on the present and future. A cautious, diplomatic approach that avoids conflict."
+ rk_travel.0003.toast_b: "You skillfully direct the conversation."
+
+ rk_travel.0004.t: "The Sunspear Feast"
+ rk_travel.0004.desc: "The conversation with [rk_sun_lord.GetTitledFirstNameNoTooltip] shifts to the grand feast being laid before us. The air is thick with the scent of savory, spiced goat, and a dozen other unfamiliar, mouth-watering dishes. Servants in flowing silks pour sour red wine and potent spirits from tall silver ewers. The mood has softened slightly from the earlier formality, becoming more relaxed and celebratory—though the guards remain posted, watchful.\n\n[rk_sun_lord.GetTitledFirstNameNoTooltip raises a goblet, proposing a toast to the stability of the realm. The music is lilting and strange to my ears. I am a guest, and a [ROOT.Char.GetTitleTierName|U], but the warmth of Dorne is seductive. How shall I enjoy this unique feast?"
+ 
+ rk_travel.0004.a: "Indulge in the finest Dornish wine and spirits."
+ rk_travel.0004.a_tt: "Feast heavily and drink deeply to win Dornish favor."
+ rk_travel.0004.toast_a_1: "You are the soul of the party"
+ rk_travel.0004.toast_a_2: "You make a fool of yourself"
+ 
+ rk_travel.0004.b: "Sample the strange food, but stick to the watered wine."
+ rk_travel.0004.b_tt: "Maintain your composure and sobriety."
+ rk_travel.0004.toast_b: "[rk_sun_lord.GetTitledFirstNameNoTooltip] respects your attitude."
+ 
+ rk_travel.0004.c: "Engage the noble nearest me in intense political debate."
+ rk_travel.0004.c_tt: "Use the relaxed mood to glean political information from a potentially loosened tongue."
+ rk_travel.0004.toast_c_1: "You win the debate!"
+ rk_travel.0004.toast_c_2: "You lose the debate!" 
+ 
+ rk_travel.0005.t: "A Dornish Gift"
+ rk_travel.0005.desc: "The feast finally concludes, and a weary servant guides us to the great chamber that [rk_sun_lord.GetTitledFirstNameNoTooltip] has graciously prepared for the night. The chamber is vast and cool, and a bed draped in fine Dornish silks sits invitingly at the center.\n\nBut we are not alone. Standing by the window, gazing out at the star-strewn desert sky, is a naked Dornish woman. Her skin is kissed by the sun, and she turns to offer a slow, confident smile. She is clearly a gift—a token of Dornish hospitality, reflecting the realm's famously relaxed attitudes toward love and pleasure.\n\nShe is beautiful and clearly offered with no expectation of marriage or political alliance. The temptation is immediate. What is a [ROOT.Char.GetTitleTierName|U] to do?"
+ 
+ rk_travel.0005.b: "Dismiss the woman."
+ rk_travel.0005.b_tt: "Reject the temptation and remain chaste."
+ 
+ rk_travel.0005.a: "Welcome her into my bed for the night."
+ rk_travel.0005.a_tt: "Accept the Dornish hospitality."
+ 
+ rk_travel.0006.t: "[rk_garden_lord.GetTitledFirstNameNoTooltip]'s Welcome"
+ rk_travel.0006.desc: "As our party passes from the harsh stonelands into the green, rolling hills of the Reach, we spot a grand host approaching on the road ahead. It is the [rk_garden_lord.GetLadyLord] of Highgarden, [rk_garden_lord.GetTitledFirstNameNoTooltip], accompanied by a dozen knights in gleaming armor, their cloaks embroidered with green and gold. The air is immediately sweeter, scented with distant flowers.\n\n[rk_garden_lord.GetTitledFirstNameNoTooltip] dismounts with a flourish, bowing low. 'Your Grace,' they proclaim, their voice ringing with courtly enthusiasm, 'we would be deeply honored to host the [ROOT.Char.GetTitleTierName|U] of the Iron Throne at our seat. Highgarden is prepared to celebrate your journey with a feast of the finest music, food, and chivalry the Reach has to offer. Pray, grant us the privilege of your company.'\n\nIt is an elaborate, public display of loyalty and welcome."
+ rk_travel.0006.a: "Accept the invitation. Lead on to Highgarden."
+ rk_travel.0006.a_tt: "Accept the lavish hospitality of the Reach."
+ rk_travel.0006.b: "Decline, stating I must keep to my schedule."
+ rk_travel.0006.b_tt: "Decline their open-handed offer. [rk_garden_lord.GetTitledFirstNameNoTooltip] will be greatly disappointed."
+ rk_travel.0006.c: "Decline, but thank $current_host.GetTitledFirstName$ for their journey."
+ rk_travel.0006.c_tt: "A soft refusal. Avoids offense while maintaining the pace of travel."
+ 
+ rk_travel.0007.t: "The Shining Gem of the Mander"
+ rk_travel.0007.desc: "Following [rk_garden_lord.GetTitledFirstNameNoTooltip]’s grand escort, we make our way along a smooth, tree-lined road toward the castle. Highgarden is still some distance, yet the sheer scale of its beauty is already apparent. The castle rises above the gentle bends of the Mander River, its three curtain walls and numerous towers carved from gleaming white marble that reflects the afternoon sun.\n\nFrom this vantage, the air is full of sweet scents, and we can faintly hear the sound of distant harps and flutes carried on the wind.\n\nWe pause for a moment to take in the spectacle. What aspect of this magnificent fortress catches my eye?"
+ rk_travel.0007.toast_a: "You study Highgarden's Walls"
+ rk_travel.0007.a: "Admire the immaculate strength of the walls."
+ rk_travel.0007.a_tt: "Focus on the defenses and preparedness of the Reach."
+ rk_travel.0007.b: "Listen to the sounds of the courtly music."
+ rk_travel.0007.b_tt: "Focus on the culture and art of the South."
+ rk_travel.0007.toast_b: "You learn new musical melodies..."
+ rk_travel.0007.c: "Consider the wealth that must have built such a place."
+ rk_travel.0007.c_tt: "Reflect on the economic power of the Reach."
+ rk_travel.0007.toast_c: "You study Highgarden's Fields and Orchards"
+ 
+ rk_travel.0008.t: "The Court of Flowers"
+ rk_travel.0008.desc: "We ride through the high, curving gates of Highgarden and into a world of sensory delight. Everywhere we look, we see white marble, green moss, and flowers in brilliant bloom—roses, honeysuckle, and bluebells, their mingled scents almost dizzying. Minstrels perched in galleries play cheerful songs as we are led to the central courtyard, where the whole court of the Reach seems to be assembled to cheer our arrival.\n\nThe lavishness of the spectacle is unparalleled.  [rk_garden_lord.GetTitledFirstNameNoTooltip] guides us personally to the high table, where a magnificent feast is already being laid out, featuring the finest fruits, swans, and sweet wines of the Mander. The [rk_garden_lord.GetDynasty.GetNameNoTooltip]s are clearly intent on impressing, and the social air is thick with anticipation.\n\n[rk_garden_lord.GetTitledFirstNameNoTooltip] offers the first of many toasts. How shall I respond to this overwhelming display of hospitality?"
+ 
+ rk_travel.0008.a: "Offer a witty, self-effacing toast in return."
+ rk_travel.0008.a_tt: "Show charm and grace to win the favor of the court."
+ rk_travel.0008.toast_a: "Your toast is well received!"
+ rk_travel.0008.b: "Raise a toast to the martial prowess of the Reach's knights."
+ rk_travel.0008.b_tt: "Praise their strength and devotion to chivalry."
+ rk_travel.0008.toast_b: "The Reachmen appreciate your words!" 
+ rk_travel.0008.c: "Watch the court carefully, seeking out the key players."
+ rk_travel.0008.c_tt: "Do not let the beauty distract you from the politics."
+ rk_travel.0008.toast_c: "You observe the hierarchy of Highgarden."
+
+ rk_travel.0009.t: "The Courtly Tilt"
+ rk_travel.0009.desc: "After a midday feast of sweet wine and peacock pies, [rk_garden_lord.GetTitledFirstNameNoTooltip] directs us to a beautifully adorned viewing gallery overlooking the lists. A series of tilts, held in the [ROOT.Char.GetTitleTierName|U]'s honor, is about to begin. The field is lined with cheering smallfolk, and knights from across the Reach—the Flower of Chivalry—ride out in brilliant armor, their shields bearing the sigils of ancient houses.\n\nThe music is loud, the sun is warm, and the thunder of hooves is upon us. As a spectacle of martial might and courtly grace, it is unparalleled. [rk_garden_lord.GetTitledFirstNameNoTooltip] leans over, suggesting we might award a boon to the day's victor. How shall I occupy myself while observing the joust?"
+ 
+ rk_travel.0009.a: "Keep my eyes fixed on the lists, studying the riders' technique."
+ rk_travel.0009.a_tt: "Focus on martial observation."
+ rk_travel.0009.toast_a: "You Learn new Jousting techniques."
+ 
+ rk_travel.0009.b: "Engage the nobles around me in friendly conversation."
+ rk_travel.0009.b_tt: "Use the spectacle as an opportunity for social diplomacy with the Reach lords."
+ rk_travel.0009.toast_b: "You improve your relations"
+ 
+ rk_travel.0009.c: "Relax and enjoy the tilts."
+ rk_travel.0009.c_tt: "Simply lay back and watch the jousting unfold." 
+ rk_travel.0009.c_tt: "You have a good time!"
+ 
+
+ rk_travel.0010.t: "A Quiet Sorrow in the Gardens"
+ rk_travel.0010.desc: "Retiring from the boisterous court, I decide to take a few moments of solitude amidst the famous Highgarden gardens. The evening air is cooler now, and the fragrance of a thousand roses is intoxicating. As I walk along a winding path, I hear a muffled sound—a young woman weeping.\n\nI cautiously approach a secluded marble bench near a fountain. There, I find a lady of the court, dressed richly, yet her face is buried in her hands, her shoulders shaking with silent sobs. It seems even in the fairest castle in Westeros, sorrow finds its victims.\n\nShe is unaware of my presence. Should I intervene, or discreetly withdraw?"
+ 
+ rk_travel.0010.a: "Approach the lady gently and offer comfort."
+ rk_travel.0010.a_tt: "Show compassion to a distressed noble."
+
+ rk_travel.0010.b: "Withdraw quickly, pretending I saw nothing."
+ rk_travel.0010.b_tt: "Avoid unwanted entanglement and court drama."
+
+ rk_travel.0011.t: "A Petition in Tears"
+ rk_travel.0011.desc: "I approach the secluded bench, and the young woman looks up, her eyes wide with shock as she instantly recognizes me. She attempts a panicked, tearful curtsy. 'Your Grace! Forgive me, I did not mean to disturb the gardens!'\n\nI calm her with a soft word and ask the cause of her sorrow. With the desperation of one who sees a final chance, she blurts out her tale: she is in love with Ser [rk_reach_messenger.GetTitledFirstName], a knight of modest standing, but his family has ruthlessly betrothed him to a richer match. 'I hate Highgarden and the gilded cage they have built for me,' she sobs. 'I can't bear a life without him.'\n\nHer misery is genuine, and the matter is simple, though messy."
+ 
+ rk_travel.0011.a: "You must do your duty. You must accept the betrothal."
+ rk_travel.0011.a_tt: "Uphold the established order of the realm and the duties of nobility."
+ 
+ rk_travel.0011.b: "Why don't you join us at the capital instead?"
+ rk_travel.0011.b_tt: "Remove her from the situation. She will forget soon enough."
+ 
+ rk_travel.0011.c: "I am [ROOT.Char.GetTitleTierName|U]. I will ensure love prevails."
+ rk_travel.0011.c_tt: "Use your royal authority to intervene in the local affair."
+
+ rk_travel.0012.t: "A [ROOT.Char.GetTitleTierName|U]'s Command"
+ rk_travel.0012.desc: "The next morning, I summon [rk_garden_lord.GetTitledFirstNameNoTooltip] and the heads of the two feuding houses and command them to dissolve the unwanted betrothal and permit the match between the young lady and Ser [rk_reach_messenger.GetFirstName]. The scene is tense.\n\n[rk_garden_lord.GetTitledFirstNameNoTooltip] is clearly irritated by the our intervention in such a minor affair, but the weight of the Iron Throne compels obedience. After a heated argument, the arrangements are changed, and the true lovers are united. Ser [rk_reach_messenger.GetFirstName] and the young lady are ecstatic, though the two houses involved glare at me with cold hostility."
+ 
+ rk_travel.0012.a: "My word is law. Let the other houses be warned."
+ rk_travel.0012.a_tt: "Display royal power."
+ 
+ rk_travel.0012.b: "Offer the jilted betrothed a small sum of gold for their trouble."
+ rk_travel.0012.b_tt: "Soften the political blow of your intervention with a financial gesture."

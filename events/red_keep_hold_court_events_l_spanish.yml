@@ -1,0 +1,19 @@
+﻿l_spanish:
+
+ rk_hold_court.0001.t: "Pirates in Massey’s Hook"
+ rk_hold_court.0001.desc: "The doors of the throne room boom open, and [rk_mh_lord.GetTitledFirstNameNoTooltip] strides forward, cloak damp with sea spray and eyes heavy with worry.\n\n“My [ROOT.Char.GetTitleTierName|U],” he begins, voice echoing through the hall, “Massey’s Hook is lost to the tide of pirates. They strike from hidden coves, burning our hamlets, seizing our ships, and carrying off good men and women alike. The local levies are spent, my watchtowers aflame, and still they come.”\n\n“Without aid from the Iron Throne, the Hook will be theirs before the moon turns.” The court murmurs as the lord falls to one knee, awaiting your judgment."
+ rk_hold_court.0001.b: "Grant coin and men."
+ rk_hold_court.0001.b_tt: "You send resources to Massey’s Hook."
+ rk_hold_court.0001.c: "Let him fend for himself."
+ rk_hold_court.0001.c_tt: "You deny aid."
+ 
+ rk_hold_court.0002.t: "Riches Beneath Dragonstone"
+ rk_hold_court.0002.desc: "The great doors open, and [rk_petitioner_lord.GetTitledFirstNameNoTooltip] strides forth, bowing low before the Iron Throne.\n\n“My [ROOT.Char.GetTitleTierName|U], Dragonstone’s black cliffs hide more than ash and smoke. My miners have uncovered veins of glittering ore—metals of great worth, untouched for centuries beneath the mountain. With proper funds, I could see these veins worked and the wealth of the isle flow to both crown and vassal.”\n\nHe looks up, a spark of pride in his eyes. “I ask only for royal backing to begin the endeavor. In return, the Iron Throne shall have its share of the bounty.”"
+ rk_hold_court.0002.a: "You have my support."
+ rk_hold_court.0002.a_tt: "You fund the mines of Dragonstone."
+ rk_hold_court.0002.b: "The crown’s coffers are closed."
+ rk_hold_court.0002.b_tt: "You deny his request."
+ rk_hold_court.0002.c: "A share? The crown deserves the lion’s portion."
+ rk_hold_court.0002.c_tt: "You demand greater profit for the Iron Throne."
+ 
+

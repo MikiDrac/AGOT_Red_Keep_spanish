@@ -1,0 +1,450 @@
+﻿l_spanish:
+
+
+ rk_the_red_keep_domicile_title: "The Red Keep"
+ red_keep_estate_domicile_title: "Red Keep"  
+ red_keep_estate_domicile_type: "Red Keep"   
+ red_keep_estate_domicile_type_tooltip: "the Red Keep"
+ red_keep_estate_move_desc: "#italic The Red Keep domicile icon might spawn elsewhere. Use this button to relocate it to King's Landing.#!" 
+ 
+ 
+ iron_throne_government_with_icon:0 "@government_type_feudal! $iron_throne_government$"
+ iron_throne_government:0 "Iron Throne"
+ iron_throne_government_adjective: "Iron Throne"
+ iron_throne_government_realm: "Iron Throne"
+ iron_throne_government_filter_option:0 "Iron Throne"
+ iron_throne_government_filter_option_desc:0 "Only show characters with Iron Throne [government|E]"
+ iron_throne_government_vassals_label:0 "Feudal [obligations|E] are based on each [vassal|E]'s [vassal_contract|E]"
+ iron_throne_government_desc:1 "$game_concept_feudal_desc$\n\n#F When the Targaryens forged the realm and the Iron Throne, they bound the Houses, both Great and Small, into a system of oaths and obligations from the smallest of Landed Knights to the Lords Paramount and former royal Lords. These oaths and obligations are only strong as the men and women who swear and hold them, and often are interpreted by the lords in varied ways."
+ government_is_iron_throne:0 "[government|E] type is [GetGovernment( 'iron_throne_government' ).GetName]"
+ iron_throne_government_vassal:0 "$lp_feudal_government$"
+ iron_throne_government_vassal_desc:0 "$game_concept_feudal_desc$" 
+ 
+ #Buildings   
+   
+ rk_throne_room_01_domicile_building: "The Great Hall"  
+ rk_throne_room_01_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."    
+ rk_throne_room_02_domicile_building: "Grand Great Hall"   
+ rk_throne_room_02_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."    
+ rk_throne_room_03_domicile_building: "Majestic Great Hall"   
+ rk_throne_room_03_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."    
+ rk_throne_room_04_domicile_building: "Resplendent  Great Hall" 
+ rk_throne_room_04_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."    
+ rk_throne_room_05_domicile_building: "Magnificent Great Hall" 
+ rk_throne_room_05_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."    
+
+ rk_throne_room_06_domicile_building: "Smoldering Great Hall" 
+ rk_throne_room_06_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."   
+ rk_throne_room_07_domicile_building: "Brooding Great Hall"   
+ rk_throne_room_07_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."   
+ rk_throne_room_08_domicile_building: "Draconic Great Hall"  
+ rk_throne_room_08_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."   
+ rk_throne_room_09_domicile_building: "Tyrant's Great Hall"  
+ rk_throne_room_09_domicile_building_desc: "The throne room of the king, crowned by the Iron Throne atop a high iron dais. Vast enough to feast a thousand, it hosts royal audiences and grand balls, a seat of both pageantry and power."   
+ 
+ rk_maegors_keep_01_domicile_building: "Maegor's Holdfast"
+ rk_maegors_keep_01_domicile_building_desc: "Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep. The castle-within-a-castle is situated behind walls twelve feet thick and a dry moat lined with iron spikes. The King and his closest family reside here." 
+ rk_maegors_keep_02_domicile_building: "Maegor's Holdfast"
+ rk_maegors_keep_02_domicile_building_desc: "Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep. The castle-within-a-castle is situated behind walls twelve feet thick and a dry moat lined with iron spikes. The King and his closest family reside here."  
+ rk_maegors_keep_03_domicile_building: "Maegor's Holdfast"
+ rk_maegors_keep_03_domicile_building_desc: "Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep. The castle-within-a-castle is situated behind walls twelve feet thick and a dry moat lined with iron spikes. The King and his closest family reside here."  
+ rk_maegors_keep_04_domicile_building: "Maegor's Holdfast"
+ rk_maegors_keep_04_domicile_building_desc: "Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep. The castle-within-a-castle is situated behind walls twelve feet thick and a dry moat lined with iron spikes. The King and his closest family reside here."  
+ rk_maegors_keep_05_domicile_building: "Maegor's Holdfast" 
+ rk_maegors_keep_05_domicile_building_desc: "Maegor's Holdfast is a massive square fortress inside the heart of the Red Keep. The castle-within-a-castle is situated behind walls twelve feet thick and a dry moat lined with iron spikes. The King and his closest family reside here."  
+
+ rk_tower_hand_01_domicile_building: "Tower of the Hand"
+ rk_tower_hand_01_domicile_building_desc: "A tall, narrow tower adjoining the Red Keep, serving as the residence and office of the Hand of the King. Within its chambers, the realm’s second-most powerful figure drafts laws, manages councils, and bears the weight of royal duty when the king cannot."
+ rk_tower_hand_02_domicile_building: "Tower of the Hand"
+ rk_tower_hand_02_domicile_building_desc: "A tall, narrow tower adjoining the Red Keep, serving as the residence and office of the Hand of the King. Within its chambers, the realm’s second-most powerful figure drafts laws, manages councils, and bears the weight of royal duty when the king cannot."
+ rk_tower_hand_03_domicile_building: "Tower of the Hand"
+ rk_tower_hand_03_domicile_building_desc: "A tall, narrow tower adjoining the Red Keep, serving as the residence and office of the Hand of the King. Within its chambers, the realm’s second-most powerful figure drafts laws, manages councils, and bears the weight of royal duty when the king cannot."
+ rk_tower_hand_04_domicile_building: "Tower of the Hand"
+ rk_tower_hand_04_domicile_building_desc: "A tall, narrow tower adjoining the Red Keep, serving as the residence and office of the Hand of the King. Within its chambers, the realm’s second-most powerful figure drafts laws, manages councils, and bears the weight of royal duty when the king cannot."
+ rk_tower_hand_05_domicile_building: "Tower of the Hand" 
+ rk_tower_hand_05_domicile_building_desc: "A tall, narrow tower adjoining the Red Keep, serving as the residence and office of the Hand of the King. Within its chambers, the realm’s second-most powerful figure drafts laws, manages councils, and bears the weight of royal duty when the king cannot."
+ 
+ white_sword_tower_01_domicile_building: "White Sword Tower"
+ white_sword_tower_01_domicile_building_desc: "A slender, four-story tower overlooking the Red Keep’s courtyard, home to the Kingsguard. Within its whitewashed walls lie their barracks, armory, and the Hall of the White Sword, where each sworn brother’s deeds are recorded in the White Book — a chronicle of honor, duty, and sacrifice."
+ white_sword_tower_02_domicile_building: "White Sword Tower"
+ white_sword_tower_02_domicile_building_desc: "A slender, four-story tower overlooking the Red Keep’s courtyard, home to the Kingsguard. Within its whitewashed walls lie their barracks, armory, and the Hall of the White Sword, where each sworn brother’s deeds are recorded in the White Book — a chronicle of honor, duty, and sacrifice."
+ white_sword_tower_03_domicile_building: "White Sword Tower"
+ white_sword_tower_03_domicile_building_desc: "A slender, four-story tower overlooking the Red Keep’s courtyard, home to the Kingsguard. Within its whitewashed walls lie their barracks, armory, and the Hall of the White Sword, where each sworn brother’s deeds are recorded in the White Book — a chronicle of honor, duty, and sacrifice."
+ white_sword_tower_04_domicile_building: "White Sword Tower"
+ white_sword_tower_04_domicile_building_desc: "A slender, four-story tower overlooking the Red Keep’s courtyard, home to the Kingsguard. Within its whitewashed walls lie their barracks, armory, and the Hall of the White Sword, where each sworn brother’s deeds are recorded in the White Book — a chronicle of honor, duty, and sacrifice."
+ white_sword_tower_05_domicile_building: "White Sword Tower"
+ white_sword_tower_05_domicile_building_desc: "A slender, four-story tower overlooking the Red Keep’s courtyard, home to the Kingsguard. Within its whitewashed walls lie their barracks, armory, and the Hall of the White Sword, where each sworn brother’s deeds are recorded in the White Book — a chronicle of honor, duty, and sacrifice."
+ 
+ royal_sept_01_domicile_building: "Royal Sept"
+ royal_sept_01_domicile_building_desc: "The principal place of worship within the Red Keep, the Royal Sept serves the Faith of the Seven. Adorned with stained glass and marble icons, it hosts royal weddings, blessings, and coronations. A sanctum for prayer, politics, and piety, it stands as a symbol of the Crown’s divine legitimacy."
+ royal_sept_02_domicile_building: "Gilded Royal Sept"
+ royal_sept_02_domicile_building_desc: "The principal place of worship within the Red Keep, the Royal Sept serves the Faith of the Seven. Adorned with stained glass and marble icons, it hosts royal weddings, blessings, and coronations. A sanctum for prayer, politics, and piety, it stands as a symbol of the Crown’s divine legitimacy." 
+ royal_sept_03_domicile_building: "Sanctified Royal Sept"
+ royal_sept_03_domicile_building_desc: "The principal place of worship within the Red Keep, the Royal Sept serves the Faith of the Seven. Adorned with stained glass and marble icons, it hosts royal weddings, blessings, and coronations. A sanctum for prayer, politics, and piety, it stands as a symbol of the Crown’s divine legitimacy." 
+ royal_sept_04_domicile_building: "Celestial Royal Sept"
+ royal_sept_04_domicile_building_desc: "The principal place of worship within the Red Keep, the Royal Sept serves the Faith of the Seven. Adorned with stained glass and marble icons, it hosts royal weddings, blessings, and coronations. A sanctum for prayer, politics, and piety, it stands as a symbol of the Crown’s divine legitimacy." 
+ royal_sept_05_domicile_building: "Eternal Royal Sept" 
+ royal_sept_05_domicile_building_desc: "The principal place of worship within the Red Keep, the Royal Sept serves the Faith of the Seven. Adorned with stained glass and marble icons, it hosts royal weddings, blessings, and coronations. A sanctum for prayer, politics, and piety, it stands as a symbol of the Crown’s divine legitimacy." 
+ 
+ rk_outer_courtyard_01_domicile_building: "Outer Courtyard"
+ rk_outer_courtyard_01_domicile_building_desc: "The bustling threshold of the Red Keep, the Outer Courtyard houses guards, servants, and visitors amid stables, workshops, and stone paths. It bridges the world of the city with the realm of kings — where power begins at the gate."
+ rk_outer_courtyard_02_domicile_building: "Outer Courtyard"
+ rk_outer_courtyard_02_domicile_building_desc: "The bustling threshold of the Red Keep, the Outer Courtyard houses guards, servants, and visitors amid stables, workshops, and stone paths. It bridges the world of the city with the realm of kings — where power begins at the gate."
+ rk_outer_courtyard_03_domicile_building: "Outer Courtyard"
+ rk_outer_courtyard_03_domicile_building_desc: "The bustling threshold of the Red Keep, the Outer Courtyard houses guards, servants, and visitors amid stables, workshops, and stone paths. It bridges the world of the city with the realm of kings — where power begins at the gate."
+ rk_outer_courtyard_04_domicile_building: "Outer Courtyard"
+ rk_outer_courtyard_04_domicile_building_desc: "The bustling threshold of the Red Keep, the Outer Courtyard houses guards, servants, and visitors amid stables, workshops, and stone paths. It bridges the world of the city with the realm of kings — where power begins at the gate."
+ rk_outer_courtyard_05_domicile_building: "Outer Courtyard" 
+ rk_outer_courtyard_05_domicile_building_desc: "The bustling threshold of the Red Keep, the Outer Courtyard houses guards, servants, and visitors amid stables, workshops, and stone paths. It bridges the world of the city with the realm of kings — where power begins at the gate."
+ 
+ rk_godswood_01_domicile_building: "Godswood"
+ rk_godswood_01_domicile_building_desc: "A quiet, walled grove within the Red Keep, the godswood offers solitude beneath ancient trees and soft grass. Though it holds no weirwood, it remains a sacred refuge for prayer, reflection, and private counsel away from courtly eyes."
+ rk_godswood_02_domicile_building: "Hallowed Godswood"
+ rk_godswood_02_domicile_building_desc: "A quiet, walled grove within the Red Keep, the godswood offers solitude beneath ancient trees and soft grass. Though it holds no weirwood, it remains a sacred refuge for prayer, reflection, and private counsel away from courtly eyes."
+ rk_godswood_03_domicile_building: "Sanctified Godswood"
+ rk_godswood_03_domicile_building_desc: "A quiet, walled grove within the Red Keep, the godswood offers solitude beneath ancient trees and soft grass. Though it holds no weirwood, it remains a sacred refuge for prayer, reflection, and private counsel away from courtly eyes."
+ rk_godswood_04_domicile_building: "Listening Godswood"
+ rk_godswood_04_domicile_building_desc: "A quiet, walled grove within the Red Keep, the godswood offers solitude beneath ancient trees and soft grass. Though it holds no weirwood, it remains a sacred refuge for prayer, reflection, and private counsel away from courtly eyes."
+ rk_godswood_05_domicile_building: "Whispering Godswood" 
+ rk_godswood_05_domicile_building_desc: "A quiet, walled grove within the Red Keep, the godswood offers solitude beneath ancient trees and soft grass. Though it holds no weirwood, it remains a sacred refuge for prayer, reflection, and private counsel away from courtly eyes."
+ 
+ rk_royal_gardens_01_domicile_building: "Overgrown Gardens"
+ rk_royal_gardens_01_domicile_building_desc: "Lush and carefully tended, the Royal Gardens sprawl across terraces and paths within the Red Keep. Filled with fountains, flowering hedges, and exotic blooms, they serve as a peaceful retreat for nobles — and a discreet stage for whispers, romance, and quiet intrigue."
+ rk_royal_gardens_02_domicile_building: "Tended Gardens"
+ rk_royal_gardens_02_domicile_building_desc: "Lush and carefully tended, the Royal Gardens sprawl across terraces and paths within the Red Keep. Filled with fountains, flowering hedges, and exotic blooms, they serve as a peaceful retreat for nobles — and a discreet stage for whispers, romance, and quiet intrigue."
+ rk_royal_gardens_03_domicile_building: "Ornamental Gardens"
+ rk_royal_gardens_03_domicile_building_desc: "Lush and carefully tended, the Royal Gardens sprawl across terraces and paths within the Red Keep. Filled with fountains, flowering hedges, and exotic blooms, they serve as a peaceful retreat for nobles — and a discreet stage for whispers, romance, and quiet intrigue."
+ rk_royal_gardens_04_domicile_building: "Exotic Gardens"
+ rk_royal_gardens_04_domicile_building_desc: "Lush and carefully tended, the Royal Gardens sprawl across terraces and paths within the Red Keep. Filled with fountains, flowering hedges, and exotic blooms, they serve as a peaceful retreat for nobles — and a discreet stage for whispers, romance, and quiet intrigue."
+ rk_royal_gardens_05_domicile_building: "Magnificent Gardens"
+ rk_royal_gardens_05_domicile_building_desc: "Lush and carefully tended, the Royal Gardens sprawl across terraces and paths within the Red Keep. Filled with fountains, flowering hedges, and exotic blooms, they serve as a peaceful retreat for nobles — and a discreet stage for whispers, romance, and quiet intrigue."
+ 
+ rk_market_01_domicile_building: "Outer Walls"
+ rk_market_01_domicile_building_desc: "The fortified perimeter of the Red Keep, where travelers, petitioners, and guards gather before gaining entry. A common stop for those awaiting audience or clearance, the area hums with quiet activity—stalls, murmured deals, and the watchful eyes of the Gold Cloaks."
+ rk_market_02_domicile_building: "Humble Wall Market"
+ rk_market_02_domicile_building_desc: "Lining the base of the Red Keep’s outer walls, this bustling market serves as the final stop before passing through the gates. Traders, craftsmen, and petitioners crowd the stalls, selling wares, sharing news, and seeking favor. It is a place where gold changes hands—and rumors travel faster than horses."
+ rk_market_03_domicile_building: "Busy Wall Market"
+ rk_market_03_domicile_building_desc: "Lining the base of the Red Keep’s outer walls, this bustling market serves as the final stop before passing through the gates. Traders, craftsmen, and petitioners crowd the stalls, selling wares, sharing news, and seeking favor. It is a place where gold changes hands—and rumors travel faster than horses."
+ rk_market_04_domicile_building: "Large Wall Market"
+ rk_market_04_domicile_building_desc: "Lining the base of the Red Keep’s outer walls, this bustling market serves as the final stop before passing through the gates. Traders, craftsmen, and petitioners crowd the stalls, selling wares, sharing news, and seeking favor. It is a place where gold changes hands—and rumors travel faster than horses."
+ rk_market_05_domicile_building: "Magnificent Wall Market"
+ rk_market_05_domicile_building_desc: "Lining the base of the Red Keep’s outer walls, this bustling market serves as the final stop before passing through the gates. Traders, craftsmen, and petitioners crowd the stalls, selling wares, sharing news, and seeking favor. It is a place where gold changes hands—and rumors travel faster than horses."
+ 
+ rk_gatehouse_01_domicile_building: "Gatehouse in Disrepair"
+ rk_gatehouse_01_domicile_building_desc: "Once a proud first line of defense, the Outer Gatehouse now shows signs of wear—cracked stone, rusted hinges, and moss creeping through its battlements. Though still guarded, it stands as a quiet reminder that even the strongest walls can be forgotten."
+ rk_gatehouse_02_domicile_building: "Gatehouse Repaired"
+ rk_gatehouse_02_domicile_building_desc: "Restored to its former strength, the Outer Gatehouse stands firm with reinforced stone, polished iron gates, and vigilant guards at every post. Its presence commands respect—a renewed sentinel at the threshold of royal power."
+ rk_gatehouse_03_domicile_building: "Gatehouse Reinforced"
+ rk_gatehouse_03_domicile_building_desc: "Now fully reinforced and garrisoned, the Outer Gatehouse serves as both a stronghold and staging ground. Thick stone walls, barred gates, and arrow slits mark its defenses, while its adjoining barracks house a permanent force of guards. It is no longer just a passage—it is a fortress in its own right."
+ rk_gatehouse_04_domicile_building: "Fortified  Gatehouse"
+ rk_gatehouse_04_domicile_building_desc: "Heavily fortified and bristling with defenses, the Outer Gatehouse has become a true military bastion. Thickened walls, reinforced towers, and layered gates protect its halls, while a sizable garrison lives within its expanded barracks. It stands as a defiant barrier between the Red Keep and the world beyond."
+ rk_gatehouse_05_domicile_building: "Bastioned Gatehouse" 
+ rk_gatehouse_05_domicile_building_desc: "Heavily fortified and bristling with defenses, the Outer Gatehouse has become a true military bastion. Thickened walls, reinforced towers, and layered gates protect its halls, while a sizable garrison lives within its expanded barracks. It stands as a defiant barrier between the Red Keep and the world beyond."
+ 
+ rk_maesters_turret_01_domicile_building: "Maester's Turret"
+ rk_maesters_turret_01_domicile_building_desc: "A modest, round tower within the Red Keep, the Maester’s Turret serves as the seat of learning, healing, and royal correspondence. Stacked with scrolls, herbs, and instruments, it lies directly beneath the rookery, where ravens roost above. The maester sleeps beneath their wings, ever ready to serve the Crown in silence and duty." 
+ rk_maesters_turret_02_domicile_building: "Maester's Turret"
+ rk_maesters_turret_02_domicile_building_desc: "A modest, round tower within the Red Keep, the Maester’s Turret serves as the seat of learning, healing, and royal correspondence. Stacked with scrolls, herbs, and instruments, it lies directly beneath the rookery, where ravens roost above. The maester sleeps beneath their wings, ever ready to serve the Crown in silence and duty."
+ rk_maesters_turret_03_domicile_building: "Maester's Turret"
+ rk_maesters_turret_03_domicile_building_desc: "A modest, round tower within the Red Keep, the Maester’s Turret serves as the seat of learning, healing, and royal correspondence. Stacked with scrolls, herbs, and instruments, it lies directly beneath the rookery, where ravens roost above. The maester sleeps beneath their wings, ever ready to serve the Crown in silence and duty."
+ rk_maesters_turret_04_domicile_building: "Maester's Turret"
+ rk_maesters_turret_04_domicile_building_desc: "A modest, round tower within the Red Keep, the Maester’s Turret serves as the seat of learning, healing, and royal correspondence. Stacked with scrolls, herbs, and instruments, it lies directly beneath the rookery, where ravens roost above. The maester sleeps beneath their wings, ever ready to serve the Crown in silence and duty."
+ rk_maesters_turret_05_domicile_building: "Maester's Turret"
+ rk_maesters_turret_05_domicile_building_desc: "A modest, round tower within the Red Keep, the Maester’s Turret serves as the seat of learning, healing, and royal correspondence. Stacked with scrolls, herbs, and instruments, it lies directly beneath the rookery, where ravens roost above. The maester sleeps beneath their wings, ever ready to serve the Crown in silence and duty." 
+
+ 
+ rk_port_01_domicile_building: "Small Docks"
+ rk_port_01_domicile_building_desc: "Hidden below the eastern cliffs of the Red Keep, these small but secure docks serve as a private landing for royal ships and discreet arrivals. Guarded and largely unseen from the city above, they offer quiet passage for envoys, cargo, and secrets best kept off the streets of King’s Landing."
+ rk_port_02_domicile_building: "Red Keep Docks"
+ rk_port_02_domicile_building_desc: "Hidden below the eastern cliffs of the Red Keep, these small but secure docks serve as a private landing for royal ships and discreet arrivals. Guarded and largely unseen from the city above, they offer quiet passage for envoys, cargo, and secrets best kept off the streets of King’s Landing." 
+ rk_port_03_domicile_building: "Expanded Pier"
+ rk_port_03_domicile_building_desc: "Hidden below the eastern cliffs of the Red Keep, these small but secure docks serve as a private landing for royal ships and discreet arrivals. Guarded and largely unseen from the city above, they offer quiet passage for envoys, cargo, and secrets best kept off the streets of King’s Landing." 
+ rk_port_04_domicile_building: "Military Wharf"
+ rk_port_04_domicile_building_desc: "Hidden below the eastern cliffs of the Red Keep, these small but secure docks serve as a private landing for royal ships and discreet arrivals. Guarded and largely unseen from the city above, they offer quiet passage for envoys, cargo, and secrets best kept off the streets of King’s Landing." 
+ rk_port_05_domicile_building: "Royal Wharf" 
+ rk_port_05_domicile_building_desc: "Hidden below the eastern cliffs of the Red Keep, these small but secure docks serve as a private landing for royal ships and discreet arrivals. Guarded and largely unseen from the city above, they offer quiet passage for envoys, cargo, and secrets best kept off the streets of King’s Landing." 
+ 
+ ##Internal Buildings
+ 
+ rk_feasting_gallery_01_domicile_building: "Feasting Gallery"
+ rk_feasting_gallery_02_domicile_building: "Banquet Hall" 
+ rk_feasting_gallery_03_domicile_building: "Grand Ballroom" 
+ rk_feasting_gallery_04_domicile_building: "Hall of Revels"  
+ rk_feasting_gallery_05_domicile_building: "Hall of a Thousand Courses"  
+ 
+ rk_wine_cellar_01_domicile_building: "Wine Room"
+ rk_wine_cellar_02_domicile_building: "Wine Cellar"
+ rk_wine_cellar_03_domicile_building: "Immense Wince Cellar" 
+ 
+ rk_trophy_room_01_domicile_building: "Trophy Room"
+ rk_trophy_room_02_domicile_building: "Trophy Displays"
+ rk_trophy_room_03_domicile_building: "War Table"
+ rk_trophy_room_04_domicile_building: "Weapon Collection"
+ 
+ rk_cabinet_of_curiosities_01_domicile_building: "Cabinet of Curiosities"
+ rk_cabinet_of_curiosities_02_domicile_building: "Hall of Wonders"
+ rk_cabinet_of_curiosities_03_domicile_building: "Gallery of Marvels"
+ 
+ rk_heraldry_01_domicile_building: "Heraldry Display"
+ rk_heraldry_02_domicile_building: "Vassal Heraldry Display"
+ rk_heraldry_03_domicile_building: "Exquisite Heraldry Display" 
+ 
+ rk_workshops_01_domicile_building: "Woodwright's Nook"
+ rk_workshops_02_domicile_building: "Carpenter's Workshop"
+ rk_workshops_03_domicile_building: "Master Joiner's Guild"
+ rk_workshops_04_domicile_building: "Hall of the King's Woodwrights" 
+ 
+ rk_engineer_01_domicile_building: "Engineers' Quarters"
+ rk_engineer_02_domicile_building: "Surveyor's Lodge"
+ rk_engineer_03_domicile_building: "Trebuchet Assembly Yard" 
+ rk_engineer_04_domicile_building: "Siege Masters'  Pavilion"
+ 
+ rk_blaksmith_01_domicile_building: "Smithy Yard"
+ rk_blaksmith_02_domicile_building: "Royal Forge"
+ rk_blaksmith_03_domicile_building: "Master-Armorer's Quarters"
+ rk_blaksmith_04_domicile_building: "Royal Armory"
+
+ rk_royal_stables_01_domicile_building: "Stableyard "
+ rk_royal_stables_02_domicile_building: "Large Stables" 
+ rk_royal_stables_03_domicile_building: "Warhorse Pens" 
+ rk_royal_stables_04_domicile_building: "Royal Stables" 
+ rk_royal_stables_05_domicile_building: "Magnificent Stables"   
+ 
+ rk_royal_crypt_01_domicile_building: "Crypt"
+ rk_royal_crypt_02_domicile_building: "Expanded Crypt" 
+ rk_royal_crypt_03_domicile_building: "Crypt of Kings"  
+ 
+ rk_vault_of_relics_01_domicile_building: "Vault of Relics"
+ rk_scriptorium_01_domicile_building: "Scriptorium"
+ 
+ rk_ascetic_chambers_01_domicile_building: "Pilgrims' Shelter	"
+ rk_ascetic_chambers_02_domicile_building: "Sanctum of the Devout" 
+ 
+ rk_confession_01_domicile_building: "Hall of Confession"
+ 
+ rk_barber_01_domicile_building: "Royal Barber's Stall"
+ rk_brewer_01_domicile_building: "Royal Brewer's Stall"
+ 
+ rk_textile_01_domicile_building: "Textile Vendor"
+ rk_brothel_01_domicile_building: "Whorehouse"
+ rk_brothel_02_domicile_building: "Pleasure House"
+ rk_coin_changer_01_domicile_building: "Coin-Changer's Table"
+ 
+ rk_kennels_01_domicile_building: "Royal Kennels"
+ rk_kennels_02_domicile_building: "Expanded Royal Kennels"
+ 
+ rk_breeder_01_domicile_building: "Royal Horse Breeder"
+ rk_dornish_horse_01_domicile_building: "Dornish Stallions"
+ 
+ rk_pig_yard_01_domicile_building: "Pig Yard"
+ 
+ rk_falconer_tower_01_domicile_building: "Falconer's Tower"
+ rk_falconer_tower_02_domicile_building: "Vale Falcons"
+ rk_falconer_tower_03_domicile_building: "Expanded Falconer's Tower" 
+ 
+ rk_training_grounds_01_domicile_building: "Training Grounds"
+ rk_training_grounds_02_domicile_building: "Archery Range" 
+ rk_training_grounds_03_domicile_building: "Braavosi Swordmasters"  
+ 
+ rk_deep_well_01_domicile_building: "Well"
+ rk_deep_well_02_domicile_building: "Deep Well"
+ rk_deep_well_03_domicile_building: "Well"
+ rk_deep_well_04_domicile_building: "Deep Well" 
+
+ rk_barracks_01_domicile_building: "Barracks"
+ rk_barracks_02_domicile_building: "Quartermaster's Office"
+ rk_barracks_03_domicile_building: "Large Barracks"
+
+ rk_guardhouse_01_domicile_building: "Guardhouse"
+ rk_guardhouse_02_domicile_building: "Guard Lodgings"  
+ rk_guardhouse_03_domicile_building: "Tower of the Guard"  
+ 
+ rk_nightly_watch_01_domicile_building: "Nightly Watch"
+ rk_extra_watch_01_domicile_building: "Extra Watch"
+ 
+ rk_gate_wash_01_domicile_building: "Gate Wash"
+ rk_gate_oil_01_domicile_building: "Boiling Oil"
+ 
+ rk_macabre_display_01_domicile_building: "Macabre Display"
+ 
+ domicile_building_parameter_rk_custom_trial: "A warning to the population of King's Landing and my enemies."
+ 
+ 
+ rk_royal_apartments_01_domicile_building: "Luxurious Royal Apartments"
+ rk_royal_apartments_02_domicile_building: "Expanded Royal Bedchambers"
+ rk_royal_apartments_03_domicile_building: "King's Solar" 
+ rk_royal_apartments_04_domicile_building: "Martial Study" 
+ rk_royal_apartments_05_domicile_building: "Private Chapel" 
+ rk_royal_apartments_06_domicile_building: "Solar Library"
+ rk_royal_apartments_07_domicile_building: "Royal Bath"
+
+ rk_queens_ballroom_01_domicile_building: "The Queen's Ballroom" 
+ rk_queens_ballroom_02_domicile_building: "Refined Queen's Ballroom"
+ rk_queens_ballroom_03_domicile_building: "Elegant Queen's Ballroom" 
+ rk_queens_ballroom_04_domicile_building: "Queen’s Wardrobe" 
+ rk_queens_ballroom_05_domicile_building: "Lavish Queen's Wardrobe"
+ rk_queens_ballroom_06_domicile_building: "Grandiose Queen's Wardrove"  
+ rk_queens_ballroom_07_domicile_building: "Regal Queen's Ballroom"   
+ rk_queens_ballroom_08_domicile_building: "Queen's Office of Charities"   
+ rk_queens_ballroom_09_domicile_building: "Queen's Office of Charities"   
+ rk_queens_ballroom_10_domicile_building: "Queen's Office of Charities"  
+
+ rk_kitchen_keep_01_domicile_building: "Kitchen Keep" 
+ rk_kitchen_keep_02_domicile_building: "Master Cook's Lodgings" 
+ rk_kitchen_keep_03_domicile_building: "Upper Granary"  
+ rk_kitchen_keep_04_domicile_building: "Meat Cellar"   
+ rk_kitchen_keep_05_domicile_building: "Essossi Spice Vault"
+
+ rk_castle_library_01_domicile_building: "Castle Library"
+ rk_castle_library_02_domicile_building: "Tutor's Residence"
+ rk_castle_library_03_domicile_building: "Hall of Instruction"
+ rk_castle_library_04_domicile_building: "Royal Archive"
+ rk_castle_library_05_domicile_building: "Valyrian Scrolls Vault" 
+ rk_castle_library_06_domicile_building: "Reading Hall"  
+ 
+ rk_resetored_secret_passage_01_domicile_building: "Hidden Corridors Rediscovered"
+ rk_resetored_secret_passage_02_domicile_building: "Cleared and Mapped Passages"
+ rk_resetored_secret_passage_03_domicile_building: "Secure Access Points"
+ rk_resetored_secret_passage_04_domicile_building: "Shadow Network"
+ rk_resetored_secret_passage_05_domicile_building: "Labyrinth of Maegor Restored" 
+ rk_resetored_secret_passage_06_domicile_building: "Passages Sealed"  
+ 
+ rk_traitors_walk_01_domicile_building: "Traitor's Way"
+ rk_traitors_walk_02_domicile_building: "Macabre Traitor's Way" 
+ rk_chamber_of_the_dragon_mosaic_01_domicile_building: "Chamber of the Dragon Mosaic"
+ 
+ rk_hand_secret_passage_01_domicile_building: "Underchambers"
+ rk_hand_secret_passage_02_domicile_building: "Lower Labyrinth"
+ rk_hand_secret_passage_03_domicile_building: "Reforged Passages" 
+ 
+ rk_small_hall_01_domicile_building: "The Small Hall"
+ rk_small_hall_02_domicile_building: "The Hand's Dining Hall"
+ rk_small_hall_03_domicile_building: "The Hand's Reception" 
+ rk_small_hall_04_domicile_building: "The Hand's Court"
+ rk_war_room_01_domicile_building: "War Room"
+ rk_war_room_02_domicile_building: "Strategic Command Hall"
+ rk_war_room_03_domicile_building: "Grand War Council"
+ rk_archive_precedent_01_domicile_building: "Drafting Hall"
+ rk_archive_precedent_02_domicile_building: "The Hands Library"
+ rk_archive_precedent_03_domicile_building: "The Archive of Precedent"
+ rk_hall_of_ledgers_01_domicile_building: "The Hall of Ledgers"
+
+ rk_hand_chambers_01_domicile_building: "The Hand's Quarters"
+ rk_hand_chambers_02_domicile_building: "The Hand's Solar" 
+ rk_hand_chambers_03_domicile_building: "The Hand's Private Study"  
+ 
+ domicile_building_parameter_rk_dragon_mosaic: "A chamber forgotten by time, ideal for secret council meetings."
+ 
+ rk_the_kings_pen_01_domicile_building: "Scribes Quarters"
+ rk_the_kings_pen_02_domicile_building: "Chamber of Charters"
+ rk_the_kings_pen_03_domicile_building: "The King’s Pen" 
+ 
+ rk_council_chamber_01_domicile_building: "The Council Chamber"
+ rk_council_chamber_02_domicile_building: "Elegant Council Chamber"
+ rk_council_chamber_03_domicile_building: "Magnificent Council Chamber" 
+ 
+ rk_rookery_01_domicile_building: "Rookery"
+ rk_rookery_02_domicile_building: "Rookery Expansion"
+ rk_rookery_03_domicile_building: "High Rookery of the Realm"  
+ 
+ rk_sick_room_01_domicile_building: "Sick Room"
+ rk_sick_room_02_domicile_building: "Apothecary"
+ rk_sick_room_03_domicile_building: "Castle Hospital" 
+ 
+ rk_herbal_workshop_01_domicile_building: "Herbalist Quarters"
+ rk_herbal_workshop_02_domicile_building: "Herbal Workshop" 
+ rk_herbal_workshop_03_domicile_building: "Poison Brewery" 
+ rk_herbal_workshop_04_domicile_building: "Poison Master"  
+ rk_herbal_workshop_05_domicile_building: "Experimental Elixirs" 
+
+ rk_obersbatory_01_domicile_building: "Telescope" 
+ rk_obersbatory_02_domicile_building: "Observatory" 
+
+ rk_surgeon_tools_01_domicile_building: "Latest Surgeon Tools" 
+ rk_surgeon_tools_02_domicile_building: "Citadel Dentistry Advisors"
+
+ rk_reference_corpus_01_domicile_building: "Reference Corpus" 
+ rk_mortician_tools_01_domicile_building: "Autopsy Room" 
+ 
+ rk_alchemy_laboratory_01_domicile_building: "Alchemy Laboratory" 
+ rk_alchemy_laboratory_02_domicile_building: "Vitriolic Bench" 
+ rk_alchemy_laboratory_03_domicile_building: "Chamber of Quicksilver" 
+ rk_alchemy_laboratory_04_domicile_building: "Gold Transmutation Corpus" 
+ rk_alchemy_laboratory_05_domicile_building: "Black Crucible" 
+ rk_alchemy_laboratory_06_domicile_building: "The Gilded Furnace"  
+ 
+ rk_the_path_of_kings_01_domicile_building: "The Path of Kings"
+ rk_the_path_of_kings_02_domicile_building: "The Path of Kings"
+ rk_the_path_of_kings_03_domicile_building: "The Path of Kings"
+ rk_the_divine_walk_01_domicile_building: "The Divine Walk"
+ 
+ rk_woodskeeper_hut_01_domicile_building: "Woodskeeper Hut"
+ rk_woodskeeper_hut_02_domicile_building: "Woodskeeper Lodge" 
+ rk_weirwood_sapling_01_domicile_building: "Weirwood Sapling"
+ rk_weirwood_sapling_02_domicile_building: "Small Weirwood Tree" 
+ 
+ 
+ rk_harbor_watchtower_01_domicile_building: "Harbor Watchtower"
+ rk_dockside_gaol_01_domicile_building: "Dockside Gaol"
+ rk_dockside_gaol_02_domicile_building: "Tidecells" 
+ rk_royal_flagship_01_domicile_building: "Royal Flagship"
+ rk_royal_flagship_02_domicile_building: "Royal Flagship" 
+ rk_royal_wharf_01_domicile_building: "Royal Wharf" 
+ rk_royal_wharf_02_domicile_building: "Expanded Royal Wharf"  
+ 
+ rk_tradeport_01_domicile_building: "Small Wharf Market"
+ rk_tradeport_02_domicile_building: "Chartered Merchant Pier"
+ rk_tradeport_03_domicile_building: "Royal Trade Hall"
+ rk_tradeport_04_domicile_building: "Crown Port of the Red Keep" 
+ 
+ rk_stonewater_barracks_01_domicile_building: "Stone Water Barracks"
+ rk_stonewater_barracks_02_domicile_building: "Stone Water Bastion" 
+ 
+ rk_royal_shipyard_01_domicile_building: "Small Shipyard"
+ rk_royal_shipyard_02_domicile_building: "Expanded Shipyard"
+ rk_royal_shipyard_03_domicile_building: "Royal Shipyard"
+ 
+ rk_kings_beacon_01_domicile_building: "Lighthouse"
+ rk_kings_beacon_02_domicile_building: "The King's Beacon" 
+ 
+ rk_lyseni_fountain_01_domicile_building: "Lyseni Fountains"
+ rk_dragon_maze_01_domicile_building: "Dragon Maze"
+ 
+ rk_royal_vineyard_domicile_building: "Royal Vineyard"
+ rk_grape_press_domicile_building: "Red Keep Reds"
+ rk_red_keep_reds_domicile_building: "Wine Distribution" 
+ 
+ rk_aviary_domicile_building: "Songbird Aviary"
+ 
+ rk_noble_lodgins_01_domicile_building: "Noble Lodgings"
+ rk_noble_lodgins_02_domicile_building: "Expanded Noble Lodgings"  
+ 
+ 
+ rk_musicians_01_domicile_building: "Musician's Alcove"
+ 
+ rk_intelectuals_01_domicile_building: "The Philosopher’s Nook"
+ 
+ rk_docks_fishermen_domicile_building: "Dockside Fishermen"
+ 
+ rk_pond_domicile_building: "Moonlight Pond"
+ 
+ rk_the_maidenvault_01_domicile_building: "The Maidenvault"
+ rk_the_maidenvault_02_domicile_building: "Maidenvault Lodgings" 
+ 
+ rk_the_kings_exit_01_domicile_building: "The King's Exit"
+ 
+ rk_war_hounds_domicile_building: "War Hounds"
+ 
+ rk_volantene_elephants_domicile_building: "Volantene Elephantry"
+ rk_volantene_elephant_masters_domicile_building: "Volantene Mahout Lodgings" 
+ 
+ rk_sheep_auction_01_domicile_building: "Sheep Auction"
+ 
+ rk_storage_space_domicile_building: "Storage Space"
+ 
+ rk_granary_01_domicile_building: "Castle Granary"
+ 
+ 
+ 
+ 
+ 
