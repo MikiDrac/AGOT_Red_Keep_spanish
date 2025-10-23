@@ -1,20 +1,19 @@
-﻿
-l_spanish:
+﻿l_spanish:
 
-ask_for_knee_vassal_interaction_event_title:0 "Bend the Knee"
+ ask_for_knee_vassal_interaction_event_title:0 "Doblar la rodilla"
 
-ask_for_knee_vassal_interaction_event_desc:0 "Lord [the_knee_bender.GetFirstNameBase] [the_knee_bender.GetDynasty.GetNameNoTooltip] steps into the throne room, the clatter of boots echoing against the vaulted stone. Each pace carries [the_knee_bender.GetHerHim] closer to the Iron Throne.\n\n\"You have come to bend the knee, Lord [the_knee_bender.GetFirstNameNoTooltip]?\" I ask, my voice carrying over the silent hall.\n\n\"I have, Your Grace,\" [the_knee_bender.GetSheHe] answers, sinking to one knee before me.\n\n#bold \"I, [the_knee_bender.GetFirstNameBase] of House [the_knee_bender.GetDynasty.GetNameNoTooltip], swear my loyalty to [the_king.GetFirstNameNoTooltip] of House [the_king.GetHouse.GetBaseNameNoTooltip], [Select_CString( the_king.IsFemale, 'Queen', 'King' )] of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm.\"#!\n\nAfter a heartbeat, [the_knee_bender.GetHerHis] gaze rises, awaiting my judgment."
+ ask_for_knee_vassal_interaction_event_desc:0 "Señor [the_knee_bender.GetFirstNameBase] [the_knee_bender.GetDynasty.GetNameNoTooltip] entra en la sala del trono, el repiqueteo de las botas resonando contra la piedra abovedada. Cada paso lo acerca más al Trono de Hierro.\n\n«¿Has venido a doblar la rodilla, señor [the_knee_bender.GetFirstNameNoTooltip]?», pregunto, mi voz extendiéndose sobre el salón en silencio.\n\n«Así es, Su Gracia», responde [the_knee_bender.GetSheHe], arrodillándose ante mí.\n\n#bold «Yo, [the_knee_bender.GetFirstNameBase] de la Casa [the_knee_bender.GetDynasty.GetNameNoTooltip], juro mi lealtad a [the_king.GetFirstNameNoTooltip] de la Casa [the_king.GetHouse.GetBaseNameNoTooltip], [Select_CString( the_king.IsFemale, 'Reina', 'Rey' )] de los Ándalos, los Rhoynar y los Primeros Hombres, [Select_CString( the_king.IsFemale, 'Señora', 'Señor' )] de los Siete Reinos y [Select_CString( the_king.IsFemale, 'Protectora', 'Protector' )] del Reino.»#!\n\nTras un instante, [the_knee_bender.GetHerHis] mirada se alza, aguardando mi juicio."
 
-ask_for_knee_vassal_interaction_event_option_1:0 "@prestige_icon! Accept the oath of fealty."
-ask_for_knee_vassal_interaction_event_option_1_tt:0 "You formally accept their pledge of loyalty."
-ask_for_knee_vassal_interaction_event_option_1_tt_1:0 "Blocked from joining a [faction|E] against you for 10 years."
-ask_for_knee_vassal_interaction_event_option_1_msg_title:0 "Vassal Bends the Knee"
-ask_for_knee_vassal_interaction_event_option_1_f:0 "Before the court, [the_knee_bender.GetFirstNameNoTooltip] swears the ancient vow, and your reign is reaffirmed."
+ ask_for_knee_vassal_interaction_event_option_1:0 "@prestige_icon! Aceptar el juramento de vasallaje."
+ ask_for_knee_vassal_interaction_event_option_1_tt:0 "Aceptas formalmente su promesa de lealtad."
+ ask_for_knee_vassal_interaction_event_option_1_tt_1:0 "No podrá unirse a una [faction|E] contra ti durante 10 años."
+ ask_for_knee_vassal_interaction_event_option_1_msg_title:0 "El vasallo dobla la rodilla"
+ ask_for_knee_vassal_interaction_event_option_1_f:0 "Ante la corte, [the_knee_bender.GetFirstNameNoTooltip] pronuncia el antiguo voto, y tu reinado queda reafirmado."
 
-ask_for_knee_vassal_interaction_event_option_2:0 "@dread_icon! On second thought… throw them in the black cells."
-ask_for_knee_vassal_interaction_event_option_2_tt:0 "You have them seized and dragged to the dungeons beneath the Red Keep."
-ask_for_knee_vassal_interaction_event_option_2_f:0 "Gasps echo through the hall as gold cloaks descend, shackling [the_knee_bender.GetHerHim] and hauling [the_knee_bender.GetHerHim] away."
+ ask_for_knee_vassal_interaction_event_option_2:0 "@dread_icon! Pensándolo mejor… que lo arrojen a las celdas negras."
+ ask_for_knee_vassal_interaction_event_option_2_tt:0 "Ordenas que lo apresen y lo arrastren a las mazmorras bajo la Fortaleza Roja."
+ ask_for_knee_vassal_interaction_event_option_2_f:0 "Un murmullo recorre el salón cuando los capas doradas descienden, encadenando a [the_knee_bender.GetHerHim] y arrastrándolo lejos."
 
-ask_for_knee_vassal_interaction_event_option_3:0 "@death_icon! I called you here to die."
-ask_for_knee_vassal_interaction_event_option_3_tt:0 "You order their immediate execution before the court."
-ask_for_knee_vassal_interaction_event_option_3_f:0 "Steel flashes in the torchlight, and before the court can cry out, [the_knee_bender.GetFirstNameNoTooltip] lies still upon the cold stone." 
+ ask_for_knee_vassal_interaction_event_option_3:0 "@death_icon! Te he convocado aquí para morir."
+ ask_for_knee_vassal_interaction_event_option_3_tt:0 "Ordenas su ejecución inmediata ante la corte."
+ ask_for_knee_vassal_interaction_event_option_3_f:0 "El acero brilla a la luz de las antorchas, y antes de que la corte pueda reaccionar, [the_knee_bender.GetFirstNameNoTooltip] yace inmóvil sobre la fría piedra."
