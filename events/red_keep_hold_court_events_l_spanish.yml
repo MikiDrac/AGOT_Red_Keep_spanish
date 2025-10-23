@@ -1,19 +1,17 @@
 ﻿l_spanish:
 
- rk_hold_court.0001.t: "Pirates in Massey’s Hook"
- rk_hold_court.0001.desc: "The doors of the throne room boom open, and [rk_mh_lord.GetTitledFirstNameNoTooltip] strides forward, cloak damp with sea spray and eyes heavy with worry.\n\n“My [ROOT.Char.GetTitleTierName|U],” he begins, voice echoing through the hall, “Massey’s Hook is lost to the tide of pirates. They strike from hidden coves, burning our hamlets, seizing our ships, and carrying off good men and women alike. The local levies are spent, my watchtowers aflame, and still they come.”\n\n“Without aid from the Iron Throne, the Hook will be theirs before the moon turns.” The court murmurs as the lord falls to one knee, awaiting your judgment."
- rk_hold_court.0001.b: "Grant coin and men."
- rk_hold_court.0001.b_tt: "You send resources to Massey’s Hook."
- rk_hold_court.0001.c: "Let him fend for himself."
- rk_hold_court.0001.c_tt: "You deny aid."
- 
- rk_hold_court.0002.t: "Riches Beneath Dragonstone"
- rk_hold_court.0002.desc: "The great doors open, and [rk_petitioner_lord.GetTitledFirstNameNoTooltip] strides forth, bowing low before the Iron Throne.\n\n“My [ROOT.Char.GetTitleTierName|U], Dragonstone’s black cliffs hide more than ash and smoke. My miners have uncovered veins of glittering ore—metals of great worth, untouched for centuries beneath the mountain. With proper funds, I could see these veins worked and the wealth of the isle flow to both crown and vassal.”\n\nHe looks up, a spark of pride in his eyes. “I ask only for royal backing to begin the endeavor. In return, the Iron Throne shall have its share of the bounty.”"
- rk_hold_court.0002.a: "You have my support."
- rk_hold_court.0002.a_tt: "You fund the mines of Dragonstone."
- rk_hold_court.0002.b: "The crown’s coffers are closed."
- rk_hold_court.0002.b_tt: "You deny his request."
- rk_hold_court.0002.c: "A share? The crown deserves the lion’s portion."
- rk_hold_court.0002.c_tt: "You demand greater profit for the Iron Throne."
- 
+ rk_hold_court.0001.t:0 "Piratas en el Garfio de Massey"
+ rk_hold_court.0001.desc:0 "Las puertas de la sala del trono se abren con estrépito, y [rk_mh_lord.GetTitledFirstNameNoTooltip] avanza con paso firme, la capa húmeda por el rocío del mar y los ojos cargados de preocupación.\n\n«Mi [ROOT.Char.GetTitleTierName|U]», empieza, con voz que resuena en el salón, «el Garfio de Massey se ha perdido bajo la marea de los piratas. Atacan desde calas ocultas, incendian nuestros pueblos, apresan nuestros barcos y se llevan a buenos hombres y mujeres por igual. Las levas locales están agotadas, mis torres de vigilancia arden, y aun así continúan.»\n\n«Sin ayuda del Trono de Hierro, el Gancho será suyo antes de que cambie la luna.» La corte murmura mientras el señor se arrodilla, aguardando tu juicio."
+ rk_hold_court.0001.b:0 "Concede dinero y hombres."
+ rk_hold_court.0001.b_tt:0 "Envías recursos al Garfio de Massey."
+ rk_hold_court.0001.c:0 "Que se las arregle solo."
+ rk_hold_court.0001.c_tt:0 "Niega tu ayuda."
 
+ rk_hold_court.0002.t:0 "Riquezas bajo Rocadragón"
+ rk_hold_court.0002.desc:0 "Las grandes puertas se abren, y [rk_petitioner_lord.GetTitledFirstNameNoTooltip] avanza con paso decidido, inclinándose profundamente ante el Trono de Hierro.\n\n«Mi [ROOT.Char.GetTitleTierName|U], los negros acantilados de Rocadragón esconden más que ceniza y humo. Mis mineros han descubierto vetas de mineral reluciente —metales de gran valor, intactos durante siglos bajo la montaña. Con la financiación adecuada, podría hacer que esas vetas fueran explotadas y que la riqueza de la isla fluyera tanto para la corona como para sus vasallos.»\n\nAlza la mirada, con un destello de orgullo en los ojos. «Solo pido el respaldo real para iniciar la empresa. A cambio, el Trono de Hierro recibirá su parte del botín.»"
+ rk_hold_court.0002.a:0 "Cuentas con mi apoyo."
+ rk_hold_court.0002.a_tt:0 "Financias las minas de Rocadragón."
+ rk_hold_court.0002.b:0 "Las arcas de la corona están cerradas."
+ rk_hold_court.0002.b_tt:0 "Rechazas su petición."
+ rk_hold_court.0002.c:0 "¿Una parte? La corona merece la porción del león."
+ rk_hold_court.0002.c_tt:0 "Exiges un mayor beneficio para el Trono de Hierro."
