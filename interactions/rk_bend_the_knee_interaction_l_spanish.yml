@@ -3,42 +3,37 @@ l_spanish:
 
 #### Break Betrothal
 
- rk_break_betrothal_interaction:0 "Command Break Betrothal"
- rk_break_betrothal_interaction_desc:0 "You command [recipient.GetNameNoTooltip] to break [recipient.GetHerHis] [betrothal|E]"
+ rk_break_betrothal_interaction:0 "Ordenar Romper el Compromiso"
+ rk_break_betrothal_interaction_desc:0 "Ordenas a [recipient.GetNameNoTooltip] romper su [betrothal|E]."
  
- rk_break_betrothal_interaction_interface_toast_decline:0 "[recipient.GetNameNoTooltip] has refused our command!"
- rk_break_betrothal_interaction_interface_toast_accept:0 "[recipient.GetNameNoTooltip]'s betrothal has been broken!"
+ rk_break_betrothal_interaction_interface_toast_decline:0 "¡[recipient.GetNameNoTooltip] ha rechazado nuestra propuesta!"
+ rk_break_betrothal_interaction_interface_toast_accept:0 "¡El compromiso de [recipient.GetNameNoTooltip] ha sido roto!"
  
- AI_ROYAL_COMMAND:0 "Royal Command: $VALUE|=+0$"
- rk_flag_break: "Break Betrothal"
- I_AM_LORD_PARAMOUNT:0 "I am [recipient.GetTitleTierName|U] Paramount: $VALUE|=+0$"
+ AI_ROYAL_COMMAND:0 "Mandato Real: $VALUE|=+0$"
+ rk_flag_break:0 "Romper Compromiso"
+ I_AM_LORD_PARAMOUNT:0 "Soy [recipient.GetTitleTierName|U] Supremo: $VALUE|=+0$"
  #rk_break_betrothal_interaction_accept_desc_a:0 ""
- RK_AI_IS_CRAVEN:0 "I am craven: $VALUE|=+0$"
- RK_AI_IS_CONTENT:0 "I am content: $VALUE|=+0$"
- #RK_AI_IS_ARROGANT: 0 "I am Arrogant: VALUE|=+0$"
- WE_ARE_RIVALS_LIEGE:0 "[rk_liege.GetNameNoTooltip] is a rival: $VALUE|=+0$"
- AI_OPINION_LIEGE_REASON:0 "Liege [opinion|E]: $VALUE|=+0$"
+ RK_AI_IS_CRAVEN:0 "Soy cobarde: $VALUE|=+0$"
+ RK_AI_IS_CONTENT:0 "Soy conformista: $VALUE|=+0$"
+ #RK_AI_IS_ARROGANT:0 "Soy arrogante: VALUE|=+0$"
+ WE_ARE_RIVALS_LIEGE:0 "[rk_liege.GetNameNoTooltip] es mi rival: $VALUE|=+0$"
+ AI_OPINION_LIEGE_REASON:0 "Opinión del señor [opinion|E]: $VALUE|=+0$"
  
-#### Bend the Knee
+ #### Bend the Knee
 
- ask_for_knee_vassal_interaction:0 "Summon to Bend the Knee"
- ask_for_knee_vassal_interaction_desc:0 "Summon [recipient.GetNameNoTooltip] to the Red Keep to bend the knee."
+ ask_for_knee_vassal_interaction:0 "Convocar a Doblar la Rodilla"
+ ask_for_knee_vassal_interaction_desc:0 "Convoca a [recipient.GetNameNoTooltip] a la Fortaleza Roja para que doble la rodilla."
 
- SUMMON_TO_BEND_KNEE_WE_ARE_ALLIES:0 "We are allies: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_AI_IS_craven:0 "[recipient.GetShortUINamePossessive] is [GetTrait('craven').GetName( GetNullCharacter )]: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_AI_IS_content:0 "[recipient.GetShortUINamePossessive] is [GetTrait('content').GetName( GetNullCharacter )]: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_AI_IS_honorable:0 "[recipient.GetShortUINamePossessive] is [GetTrait('honorable').GetName( GetNullCharacter )]: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_AI_IS_arrogant:0 "[recipient.GetShortUINamePossessive] is [GetTrait('arrogant').GetName( GetNullCharacter )]: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_TYRANNY:0 "You are a tyrannt: $VALUE|=+0$"
- SUMMON_TO_BEND_KNEE_PRESSED_CLAIM:0 "Has a pressed claim on the Kingdom: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_WE_ARE_ALLIES:0 "Somos aliados: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_AI_IS_craven:0 "[recipient.GetShortUINamePossessive] es [GetTrait('craven').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_AI_IS_content:0 "[recipient.GetShortUINamePossessive] es [GetTrait('content').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_AI_IS_honorable:0 "[recipient.GetShortUINamePossessive] es [GetTrait('honorable').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_AI_IS_arrogant:0 "[recipient.GetShortUINamePossessive] es [GetTrait('arrogant').GetName( GetNullCharacter )]: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_TYRANNY:0 "Eres un tirano: $VALUE|=+0$"
+ SUMMON_TO_BEND_KNEE_PRESSED_CLAIM:0 "Tiene una reclamación reconocida sobre el reino: $VALUE|=+0$"
 
- ag_bend_the_knee_refusal_opinion:0 "Refused to bend the knee"
- ag_asked_me_to_bend_knee_opinion:0 "Asked me to bend the knee"
+ ag_bend_the_knee_refusal_opinion:0 "Rehusó doblar la rodilla"
+ ag_asked_me_to_bend_knee_opinion:0 "Me pidió doblar la rodilla"
 
- ask_for_knee_vassal_interaction_refusal_msg_title:0 "Bend the Knee Refusal!"
- ask_for_knee_vassal_interaction_refusal_msg_desc:0 "[recipient.GetFirstName] will be branded a traitor to the Realm"
-
-
- #bend the knee
- ask_for_knee_vassal_interaction_accept_desc_a:0 "Makes the journey to the Red Keep to bend the knee."
- ask_for_knee_vassal_interaction_accept_desc_b:0  "If you accept [recipient.GetHerHis] oath, [recipient.GetFirstName]:\n $EFFECT_LIST_BULLET$ Cannot join a [faction|E] against you for 10 years.\n $EFFECT_LIST_BULLET$ Loses #N 20 #![opinion|E] of you."
+ ask_for_knee_vassal_interaction_refusal_msg_title:0 "¡Rechazo a doblar la rodilla!"
+ ask_for_knee_vassal_interaction_refusal_msg_desc:0 "[recipient.GetFirstName] será declarado traidor al Reino."
