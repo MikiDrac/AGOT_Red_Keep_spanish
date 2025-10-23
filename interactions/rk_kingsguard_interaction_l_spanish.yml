@@ -1,6 +1,5 @@
 ﻿l_spanish:
 
- rk_kingsguard_adventure_interaction: "Send Kingsguard on a Quest"
- rk_kingsguard_adventure_interaction_desc: "Send [recipient.GetTitledFirstName] on an adventure in your name"
-  
+ rk_kingsguard_adventure_interaction:0 "Enviar a la Guardia Real a una Misión"
+ rk_kingsguard_adventure_interaction_desc:0 "Envía a [recipient.GetTitledFirstName] a una aventura en tu nombre."
  
