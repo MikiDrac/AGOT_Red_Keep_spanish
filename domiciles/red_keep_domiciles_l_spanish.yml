@@ -98,13 +98,13 @@
 
  rk_godswood_01_domicile_building:0 "Bosque de Dioses"
  rk_godswood_01_domicile_building_desc:0 "Un tranquilo bosque amurallado dentro de la Fortaleza Roja, el bosque de dioses ofrece soledad bajo antiguos árboles y hierba suave. Aunque no contiene arciano, sigue siendo un refugio sagrado para la oración, la reflexión y el consejo privado lejos de las miradas cortesanas."
- rk_godswood_02_domicile_building:0 "Bosque de Dioses Sagrado"
+ rk_godswood_02_domicile_building:0 "Bosque de Dioses sagrado"
  rk_godswood_02_domicile_building_desc:0 "Un tranquilo bosque amurallado dentro de la Fortaleza Roja, el bosque de dioses ofrece soledad bajo antiguos árboles y hierba suave. Aunque no contiene arciano, sigue siendo un refugio sagrado para la oración, la reflexión y el consejo privado lejos de las miradas cortesanas."
- rk_godswood_03_domicile_building:0 "Bosque de Dioses Consagrado"
+ rk_godswood_03_domicile_building:0 "Bosque de Dioses consagrado"
  rk_godswood_03_domicile_building_desc:0 "Un tranquilo bosque amurallado dentro de la Fortaleza Roja, el bosque de dioses ofrece soledad bajo antiguos árboles y hierba suave. Aunque no contiene arciano, sigue siendo un refugio sagrado para la oración, la reflexión y el consejo privado lejos de las miradas cortesanas."
- rk_godswood_04_domicile_building:0 "Bosque de Dioses Susurrante"
+ rk_godswood_04_domicile_building:0 "Bosque de Dioses susurrante"
  rk_godswood_04_domicile_building_desc:0 "Un tranquilo bosque amurallado dentro de la Fortaleza Roja, el bosque de dioses ofrece soledad bajo antiguos árboles y hierba suave. Aunque no contiene arciano, sigue siendo un refugio sagrado para la oración, la reflexión y el consejo privado lejos de las miradas cortesanas."
- rk_godswood_05_domicile_building:0 "Bosque de Dioses Murmurante"
+ rk_godswood_05_domicile_building:0 "Bosque de Dioses murmurante"
  rk_godswood_05_domicile_building_desc:0 "Un tranquilo bosque amurallado dentro de la Fortaleza Roja, el bosque de dioses ofrece soledad bajo antiguos árboles y hierba suave. Aunque no contiene arciano, sigue siendo un refugio sagrado para la oración, la reflexión y el consejo privado lejos de las miradas cortesanas."
 
  rk_royal_gardens_01_domicile_building:0 "Jardines Descuidado"
@@ -163,7 +163,76 @@
  rk_port_05_domicile_building_desc:0 "Ocultos bajo los acantilados orientales de la Fortaleza Roja, estos muelles pequeños pero seguros sirven de atraque privado para naves reales y llegadas discretas. Vigilados y casi invisibles desde la ciudad, ofrecen un paso silencioso para enviados, cargamentos y secretos que es mejor mantener lejos de las calles de Desembarco del Rey."
 
  ##Internal Buildings
+  rk_feasting_gallery_01_domicile_building:0 "Galería de Banquetes"
+ rk_feasting_gallery_02_domicile_building:0 "Salón de Banquetes" 
+ rk_feasting_gallery_03_domicile_building:0 "Gran Salón de Baile" 
+ rk_feasting_gallery_04_domicile_building:0 "Salón de las Fiestas"  
+ rk_feasting_gallery_05_domicile_building:0 "Salón de los Mil Platos"  
  
+ rk_wine_cellar_01_domicile_building:0 "Sala del Vino"
+ rk_wine_cellar_02_domicile_building:0 "Bodega de Vinos"
+ rk_wine_cellar_03_domicile_building:0 "Inmensa Bodega de Vinos"
+ 
+ rk_trophy_room_01_domicile_building:0 "Sala de Trofeos"
+ rk_trophy_room_02_domicile_building:0 "Exposición de Trofeos"
+ rk_trophy_room_03_domicile_building:0 "Mesa de Guerra"
+ rk_trophy_room_04_domicile_building:0 "Colección de Armas"
+ 
+ rk_cabinet_of_curiosities_01_domicile_building:0 "Gabinete de Curiosidades"
+ rk_cabinet_of_curiosities_02_domicile_building:0 "Salón de las Maravillas"
+ rk_cabinet_of_curiosities_03_domicile_building:0 "Galería de los Prodígios"
+ 
+ rk_heraldry_01_domicile_building:0 "Exposición Heráldica"
+ rk_heraldry_02_domicile_building:0 "Exposición Heráldica de Vasallos"
+ rk_heraldry_03_domicile_building:0 "Exposición Heráldica Exquisita" 
+ 
+ rk_workshops_01_domicile_building:0 "Rincón del Carpintero"
+ rk_workshops_02_domicile_building:0 "Taller del Carpintero"
+ rk_workshops_03_domicile_building:0 "Gremio del Maestro Carpintero"
+ rk_workshops_04_domicile_building:0 "Salón de los Carpinteros Reales" 
+ 
+ rk_engineer_01_domicile_building:0 "Aposentos de Ingenieros"
+ rk_engineer_02_domicile_building:0 "Lodge de Topógrafos"
+ rk_engineer_03_domicile_building:0 "Patio de Montaje de Trabuquetes" 
+ rk_engineer_04_domicile_building:0 "Pabellón de los Maestros de Asedio"
+ 
+ rk_blaksmith_01_domicile_building:0 "Patio de la Herrería"
+ rk_blaksmith_02_domicile_building:0 "Forja Real"
+ rk_blaksmith_03_domicile_building:0 "Aposentos del Maestro Armero"
+ rk_blaksmith_04_domicile_building:0 "Armería Real"
+
+ rk_royal_stables_01_domicile_building:0 "Corral de Establos"
+ rk_royal_stables_02_domicile_building:0 "Grandes Establos" 
+ rk_royal_stables_03_domicile_building:0 "Corrales de Caballos de Guerra" 
+ rk_royal_stables_04_domicile_building:0 "Establos Reales" 
+ rk_royal_stables_05_domicile_building:0 "Establos Magníficos"   
+ 
+ rk_royal_crypt_01_domicile_building:0 "Cripta"
+ rk_royal_crypt_02_domicile_building:0 "Cripta Ampliada" 
+ rk_royal_crypt_03_domicile_building:0 "Cripta de los Reyes"  
+ 
+ rk_vault_of_relics_01_domicile_building:0 "Cámara de Reliquias"
+ rk_scriptorium_01_domicile_building:0 "Scriptorium"
+ 
+ rk_ascetic_chambers_01_domicile_building:0 "Refugio de Peregrinos"
+ rk_ascetic_chambers_02_domicile_building:0 "Santuario de los Devotos" 
+ 
+ rk_confession_01_domicile_building:0 "Sala de Confesión"
+ 
+ rk_barber_01_domicile_building:0 "Puesto del Barbero Real"
+ rk_brewer_01_domicile_building:0 "Puesto del Cervecero Real"
+ 
+ rk_textile_01_domicile_building:0 "Puesto de Tejidos"
+ rk_brothel_01_domicile_building:0 "Burdel"
+ rk_brothel_02_domicile_building:0 "Casa de Placer"
+ rk_coin_changer_01_domicile_building:0 "Mesa del Cambista"
+ 
+ rk_kennels_01_domicile_building:0 "Perreras Reales"
+ rk_kennels_02_domicile_building:0 "Perreras Reales Ampliadas"
+ 
+ rk_breeder_01_domicile_building:0 "Criadero Real de Caballos"
+ rk_dornish_horse_01_domicile_building:0 "Corceles Dorneses"
+
  rk_pig_yard_01_domicile_building:0 "Corral de Cerdos"
  
  rk_falconer_tower_01_domicile_building:0 "Torre del Halconero"
@@ -368,3 +437,4 @@
  rk_storage_space_domicile_building:0 "Espacio de Almacenamiento"
  
  rk_granary_01_domicile_building:0 "Granero del Castillo"
+
