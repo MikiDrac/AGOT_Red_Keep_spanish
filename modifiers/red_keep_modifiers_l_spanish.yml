@@ -1,497 +1,512 @@
 ﻿l_spanish:
   
-  ### RED KEEP MODIFIERS ###
-  
-  rk_expelled_peasants: "Peasant Expulsion"
-  rk_expelled_peasants_desc: "The streets of King's Landing are being cleared of the poor and displaced, leaving more resources for the city's defense."
-  rk_countryside_refugees: "Welcoming Peasants and Refugees"
-  rk_countryside_refugees_desc: "King's Landing has opened its gates to the desperate, providing refuge to those fleeing the countryside."
-  rk_arrow_reserves: "Full Stockpile of Arrows"
-  rk_arrow_reserves_desc: "The Red Keep's armory is filled to the brim with arrows, ensuring that the archers are well-supplied and ready to defend the castle."
-  rk_new_trebuchets: "Walls armed with Trebuchets"
-  rk_new_trebuchets_desc: "The walls of the Red Keep are fortified with newly built trebuchets, ready to hurl stones and defend against any siege."
-  
-  rk_defenses_bolstered_1: "Compromised Defenses"
-  rk_defenses_bolstered_1_desc: "Due to mismanagement or incompetence during the recent preparations, the defenses of King's Landing have been weakened. Vulnerabilities may have been introduced, and morale among the garrison is likely poor. The city is less prepared for a siege than before."
-  rk_defenses_bolstered_2: "Defenses Adequately Bolstered"
-  rk_defenses_bolstered_2_desc: "The capital's defenses have been adequately reinforced. Basic improvements have been made, and the walls stand more ready to repel an attack. A satisfactory, if uninspired, effort"
-  rk_defenses_bolstered_3: "Defenses Significantly Improved"
-  rk_defenses_bolstered_3_desc: "A skilled hand has overseen the fortification of King's Landing. The city's defensive capabilities are now notably enhanced, with stronger walls, better-organized garrisons, and improved strategic positions. Attackers will face a much tougher challenge."
-  rk_defenses_bolstered_4: "Masterfully Fortified Defenses"
-  rk_defenses_bolstered_4_desc: "King's Landing has been transformed into a formidable bastion under expert guidance! Every aspect of its defense has been meticulously enhanced, turning the capital into a near-impregnable fortress. Only the most determined or foolish foe would dare assault these walls."  
-  
-  rk_city_watch_reinforced: "City Watch Expanded"
-  rk_city_watch_reinforced_desc: "The City Watch of King’s Landing has been expanded with trained, properly armed men—drilled in formation, loyal to the Crown, and ready to meet any threat at the gates or in the streets."
-  rk_city_watch_bloated: "Bloated City Watch"
-  rk_city_watch_expanded_desc: "The Watch has grown rapidly, filled with desperate men eager for pay and protection. Few are trained, fewer still loyal—but their numbers alone may make an enemy think twice."
-  rk_city_watch_purged: "City Watch Purged"
-  rk_city_watch_purged_desc: "The corrupt have been cast out, their posts given only to the trusted and true. The Watch is leaner now, but every cloak answers to the throne—and nothing else."
-  
-  rk_royal_fleet_blackwater: "Royal Fleet Guarding Blackwater Bay"
-  rk_royal_fleet_blackwater_desc: "The #E Royal Fleet#! stands watch across the waters of Blackwater Bay, oars at the ready and scorpions loaded. No ship approaches the city without risk of fire and steel—but merchant vessels find little welcome in these war-hardened tides."
-  rk_royal_fleet_trade_patrol: "Royal Fleet Patrolling the Narrow Sea"
-  rk_royal_fleet_trade_patrol_desc: "Royal banners flutter from masts all along the eastern trade routes. Corsairs, smugglers, and raiders give the capital a wide berth, knowing the sea is not theirs to claim. Trade flourishes under the fleet’s vigilant eye."
-  rk_royal_fleet_transport: "Royal Fleet Readied for Army Transport"
-  rk_royal_fleet_transport_desc: "The royal ships are being retrofitted and stocked for war abroad. Troop decks are reinforced, stores packed deep, and the fleet stands by for the day men march down from the city to embark."
-  
-  
-  rk_city_walls_reinforced: "Reinforced Walls of King’s Landing"
-  rk_city_walls_reinforced_desc: "Master stonemasons have strengthened the ancient walls of the capital, repairing every breach and shoring every vulnerable point with fresh stone and iron. Few enemies would dare test such defenses now."
-  rk_barricades_constructed: "Makeshift Fortifications"
-  rk_barricades_constructed_desc: "Hastily built wooden barricades and watch platforms now dot the city’s perimeter. They will not last forever, but for now, they serve to delay and harry any would-be attackers."
-  rk_red_keep_walls_reinforced: "Inner Bastion Secured"
-  rk_red_keep_walls_reinforced_desc: "Resources have been funneled into the defenses of the Red Keep itself. Its walls stand ready for the worst, but the rest of the city has been left to its fate."
-  rk_walls_neglected: "Unshaken Faith in the Old Walls"
-  rk_walls_neglected_desc: "No repairs have been made. The walls remain as they were—flawed but proud.\N\N #X Whether this is wisdom or folly, only time will tell...#!"
-  
-  rk_drenched_modifier: "Drenched"
-  rk_drenched_modifier_desc: "You got totally wet while on a ride."
-  rk_commander_insights: "Kingsguard Insights."
-  rk_commander_insights_desc: "Received interesting insights from the Lord Commander of the Kingsguard."
-  
-  rk_new_hamlet: "Royal Charter"
-  rk_new_hamlet_desc: "Hayford forest is now paying taxes to their lord."
-  rk_abandoned_hamlet: "Abandoned Hamlet"
-  rk_abandoned_hamlet_desc: "Hayford forest is now abandoned."
-  rk_razed_hamlet: "Razed Hamlet"
-  rk_razed_hamlet_desc: "The renegade hamlet has been razed to the ground."
-  
-  rk_farmer_ruling: "Ruled in favor of Farmers"
-  rk_shepherd_ruling: "Ruled in favor of Shepherds"
-  rk_compromise_ruling: "Grazing Law Settled"
-  rk_compromise_ruling_desc: "Grazing Law is now clear to all after a recent ruling."
-  rk_reflecting_on_wealth: "Reflecting on prosperity."
-  rk_reflecting_on_wealth_desc: "This character is reflecting on their role as a monarch and his impact on the realms prosperity."
-  rk_kingswood_poachers: "Poachers in the Kingswood"
-  rk_kingswood_poachers_desc: "Poachers are rampant in the Kingswood defying the Iron Throne's justice."
-  rk_royal_benevolence: "Royal Benevolence"
-  rk_royal_benevolence_desc: "Rumours grow indicating this character displays acts of kindess during his royal rides."
-  rk_nobility_insights: "Noble Insights"
-  rk_nobility_insights_desc: "This character acquired new insights into the lesser nobility during a ride."
-  rk_nobility_insights_2: "Noble Insights"
-  rk_nobility_insights_2_desc: "This character acquired new insights into the lesser nobility during a ride."
-  rk_maeglas_drink: "Unnatural Vitality"
-  rk_maeglas_drink_desc: "A strange, unsettling vitality courses through this characters veins, pushing back the frontiers of age and infirmity."
-  
-  
-  #Crime
-  ###########################
-  
-  rk_kings_landing_modiifer: "King's Landing"
-  rk_kings_landing_modiifer_desc: ""
-  rk_city_watch_modifier: "The City Watch"
-  rk_city_watch_modifier_desc: ""
-  
-  #Famine
-  ##################################
-  
-  rk_well_fed: "City of Plenty"
-  rk_well_fed_desc: "The granaries of King's Landing are bursting, and the markets teem with affordable food."
-  rk_sufficiently_fed: "Daily Bread Secure"
-  rk_sufficiently_fed_desc: "Enough food reaches King's Landing to keep hunger from the doors of most."
-  rk_food_strained: "Belt Tightening"
-  rk_food_strained_desc: "The flow of food into King's Landing has faltered. Granaries are not as full as they should be and prices are rising."
-  rk_hungry_population: "Hungry Population"
-  rk_hungry_population_desc: "Hunger gnaws at the bellies of many in King's Landing. Market stalls are sparse, prices exorbitant, and the faces of the smallfolk are gaunt."
-  rk_starving_population: "Starving Population"
-  rk_starving_population_desc: "The population of King's Landing is starving. Children cry, the weak perish and riots over scraps of bread are a daily occurrence."
-  
-  #Crime
-  ###########################################################################################################################################################
-  
- rk_loyal_cw_commander: "Loyal City Watch"
- rk_loyal_cw_commander_desc: "The Commander of the City Watch stands loyal to the Iron Throne, ensuring the shadows of King’s Landing are a little less treacherous. Schemes are harder to hatch under vigilant goldcloaks."
- rk_disloyal_cw_commander: "Disloyal City Watch"
- rk_disloyal_cw_commander_desc: "The Goldcloaks answer to another. Whispers move more freely, plots fester unchecked, and the dagger in the dark may find its mark sooner than expected."
- 
-  #City
-  ########################################################################################################################################################
+ ### RED KEEP MODIFIERS ###
+ rk_expelled_peasants:0 "Expulsión de campesinos"
+ rk_expelled_peasants_desc:0 "Las calles de Desembarco del Rey están siendo despejadas de pobres y desplazados, dejando más recursos disponibles para la defensa de la ciudad."
 
- rk_king_difamed: "Iron Throne Defamed"
- rk_king_difamed_desc: "The Ruler of the Iron Throne is being defamed in the streets of King's Landing."
- rk_kings_verse: "Royal Verse"
- rk_kings_verse_desc: "This character delivered a verse that quickly became quite popular amongst the populace of King's Landing."
- 
- rk_gallant_king: "Rumours Spread"
- rk_gallant_king_desc: "Rumours spread about your recent display of gallantry in the streets of King's Landing."
- rk_nobleman_humiliated: "Nobleman Humiliated"
- rk_nobleman_humiliated_desc: "Rumours spread about your disregard for the lesser nobility of King's Landing."
- 
- 
- rk_gk_corruption_uncovered: "City Watch Corruption Uncovered"
- rk_gk_corruption_uncovered_desc: "Corrupt elements in the City Watch have been purged."
- 
- rk_spet_funded: "Sept Funded"
- rk_spet_funded_desc: "The Septons of King's Landing now have enough resources to care for the sick."
- 
- rk_sept_burned: "Sick burnt"
- rk_sept_burned_desc: "A large number of sick people were burnt alive."
- 
- rk_extra_tolls: "Goldcloaks collecting tolls."
- rk_extra_tolls_desc: "The Goldcloaks are collecting tolls for you on busy days."
- 
- rk_landlord_repairs: "Repairs in Flea Bottom"
- rk_landlord_repairs_desc: "Major repairs have been carried out in some of the worst preserved streets of Flea Bottom."
- 
- rk_landlord_repairs_2: "Repairs in Flea Bottom"
- rk_landlord_repairs_2_desc: "Major repairs have been carried out in some of the worst preserved streets of Flea Bottom."
- 
- rk_landlord_disrepairs: "Flea Bottom in disrepair"
- rk_landlord_disrepairs_desc: "Several streets in Flea Bottom have fallen to total disrepair."
- 
- rk_slum_profits: "Slum Profits"
- rk_slum_profits_desc: "Your share of the profits from the extra rents charged to tenants in Flea Bottom." 
- 
- 
- rk_septon_blessing_modifier: "High Septon's Blessing"
- rk_septon_blessing_modifier_desc: "This character has been blessed by the High Septon and the Gods themselves in a great ceremony in the Sept of Baelor."
- 
- rk_sung_of_glory_1: "Sung of Glory"
- rk_sung_of_glory_1_desc: "The court remembers the bold and rousing performance delivered by this character — a song of steel, fire, and eternal victory."
- rk_sung_of_glory_2: "Sung of Glory"
- rk_sung_of_glory_2_desc: "Many at court still speak of the song performed in the royal hall — a moment of art, voice, and verse that briefly united the court in wonder."
- 
- rk_sung_of_love: "Sung of Love"
- rk_sung_of_love_desc: "Many at court still speak of the song performed in the royal hall — a moment of art, voice, and verse that briefly united the court in wonder."
- rk_sung_of_love_2: "Sung of Love"
- rk_sung_of_love_2_desc: "Many at court still speak of the song performed in the royal hall — a moment of art, voice, and verse that briefly united the court in wonder."
- 
- rk_sung_of_sorrow_1: "Sung of Sorrow"
- rk_sung_of_sorrow_1_desc: "The court remembers the mournful tale of Bael the Bard and the Stark maiden — a song ended in heartbreak, death, and the silence that follows love lost."
- rk_sung_of_sorrow_2: "Sung of Sorrow"
- rk_sung_of_sorrow_2_desc: "The court remembers the mournful tale of Bael the Bard and the Stark maiden — a song ended in heartbreak, death, and the silence that follows love lost."
- rk_sung_hymn_1: "Sung Religous Hymn"
- rk_sung_hymn_1_desc: "The court remembers the uplifting hymn sung by this character — a reminder that the divine walks with the faithful and that redemption lies ahead for those who endure."
- rk_sung_hymn_2: "Sung Religous Hymn"
- rk_sung_hymn_2_desc: "The court reflects on the solemn hymn performed by this character — a meditation on divine silence, endurance, and the weight of unseen judgment."
- rk_sung_satire_1: "Sung Satire"
- rk_sung_satire_1_desc: "The court remembers a playful but heartfelt love song — a clever tale wrapped in kindness, laughter, and a touch of sentiment."
- rk_sung_satire_2: "Sung Satire"
- rk_sung_satire_2_desc: "The court still chuckles at the closing punchline of a brilliantly delivered jest. Witty and charming, the song left many wiping tears of laughter."
- rk_sung_of_legacy_1: "Sung of Legacy"
- rk_sung_of_legacy_1_desc: "The court remembers your stirring tribute to bloodlines, honor, and the weight of noble ancestry. A proud reminder that history marches through names — and yours is among them."
- rk_sung_of_legacy_2: "Sung of Legacy"
- rk_sung_of_legacy_2_desc: "The court reflects on your humble words — that no house, no title, no name lasts forever unless its deeds are worthy of memory."
+ rk_countryside_refugees:0 "Acogida de campesinos y refugiados"
+ rk_countryside_refugees_desc:0 "Desembarco del Rey ha abierto sus puertas a los desesperados, ofreciendo refugio a quienes huyen del campo."
 
+ rk_arrow_reserves:0 "Almacén repleto de flechas"
+ rk_arrow_reserves_desc:0 "El arsenal de la Fortaleza Roja está lleno hasta los topes de flechas, garantizando que los arqueros estén bien abastecidos y listos para defender el castillo."
+
+ rk_new_trebuchets:0 "Murallas Armadas con Trabuquetes"
+ rk_new_trebuchets_desc:0 "Las murallas de la Fortaleza Roja han sido reforzadas con nuevos trabuquetes, listos para lanzar piedras y defenderse de cualquier asedio."
+  
+ rk_defenses_bolstered_1:0 "Defensas Comprometidas"
+ rk_defenses_bolstered_1_desc:0 "Por mala gestión o incompetencia durante los preparativos recientes, las defensas de Desembarco del Rey se han debilitado. Se han introducido vulnerabilidades y la moral de la guarnición es baja. La ciudad está menos preparada para un asedio que antes."
+
+ rk_defenses_bolstered_2:0 "Defensas Reforzadas Adecuadamente"
+ rk_defenses_bolstered_2_desc:0 "Las defensas de la capital han sido reforzadas de forma adecuada. Se han hecho mejoras básicas y las murallas están más listas para repeler un ataque. Un esfuerzo satisfactorio, aunque sin inspiración."
+
+ rk_defenses_bolstered_3:0 "Defensas significativamente mejoradas"
+ rk_defenses_bolstered_3_desc:0 "Una mano experta ha supervisado la fortificación de Desembarco del Rey. Las capacidades defensivas de la ciudad se han incrementado notablemente, con murallas más sólidas, guarniciones mejor organizadas y posiciones estratégicas reforzadas. Los atacantes se enfrentarán a un desafío mucho más duro."
+
+ rk_defenses_bolstered_4:0 "Defensas magistralmente fortificadas"
+ rk_defenses_bolstered_4_desc:0 "¡Desembarco del Rey se ha transformado en un bastión formidable bajo dirección experta! Cada aspecto de su defensa ha sido meticulosamente reforzado, convirtiendo la capital en una fortaleza casi inexpugnable. Solo el enemigo más decidido —o el más insensato— se atrevería a asaltar estos muros."
+  
+ rk_city_watch_reinforced:0 "Ampliada Guardia de la Ciudad"
+ rk_city_watch_reinforced_desc:0 "La Guardia de la Ciudad de Desembarco del Rey ha sido ampliada con hombres entrenados y debidamente armados: disciplinados, leales a la Corona y preparados para enfrentar cualquier amenaza en las puertas o las calles."
+
+ rk_city_watch_bloated:0 "Gran Guardia de la Ciudad"
+ rk_city_watch_expanded_desc:0 "La Guardia ha crecido rápidamente, llena de hombres desesperados en busca de paga y protección. Pocos están entrenados, menos aún son leales, pero su número por sí solo podría hacer dudar a un enemigo."
+
+ rk_city_watch_purged:0 "Guardia de la Ciudad depurada"
+ rk_city_watch_purged_desc:0 "Los corruptos han sido expulsados, y sus puestos otorgados solo a los dignos de confianza. La Guardia es ahora más reducida, pero cada capa dorada responde al trono… y a nada más."
+  
+ rk_royal_fleet_blackwater:0 "Flota Real Vigilando la Bahía del Aguasnegras"
+ rk_royal_fleet_blackwater_desc:0 "La #E Flota Real#! vigila las aguas de la Bahía del Aguasnegras, con los remos preparados y los escorpiones cargados. Ningún barco se acerca a la ciudad sin arriesgarse al fuego y al acero… aunque los mercaderes hallan poco amparo en estas aguas curtidas por la guerra."
+
+ rk_royal_fleet_trade_patrol:0 "Flota Real patrullando el Mar Angosto"
+ rk_royal_fleet_trade_patrol_desc:0 "Banderas reales ondean en los mástiles a lo largo de las rutas comerciales del este. Corsarios, contrabandistas y saqueadores evitan la capital, sabiendo que el mar ya no les pertenece. El comercio florece bajo la atenta mirada de la flota."
+
+ rk_royal_fleet_transport:0 "Flota Real preparada para transporte militar"
+ rk_royal_fleet_transport_desc:0 "Los barcos reales están siendo reacondicionados y abastecidos para la guerra en el extranjero. Las cubiertas se han reforzado, los almacenes están llenos y la flota aguarda el día en que los hombres marchen desde la ciudad para embarcar."
+  
+ rk_city_walls_reinforced:0 "Murallas reforzadas de Desembarco del Rey"
+ rk_city_walls_reinforced_desc:0 "Maestros canteros han fortalecido las antiguas murallas de la capital, reparando cada brecha y reforzando cada punto vulnerable con piedra y hierro nuevos. Pocos enemigos se atreverían ahora a ponerlas a prueba."
+
+ rk_barricades_constructed:0 "Fortificaciones improvisadas"
+ rk_barricades_constructed_desc:0 "Barricadas de madera y torres de vigilancia improvisadas se alzan alrededor del perímetro de la ciudad. No durarán para siempre, pero por ahora servirán para frenar y hostigar a cualquier atacante."
+
+ rk_red_keep_walls_reinforced:0 "Bastión interior asegurado"
+ rk_red_keep_walls_reinforced_desc:0 "Los recursos se han concentrado en la defensa de la propia Fortaleza Roja. Sus murallas están listas para resistir lo peor, aunque el resto de la ciudad haya sido abandonado a su suerte."
+
+ rk_walls_neglected:0 "Fe Inquebrantable en las Viejas Murallas"
+ rk_walls_neglected_desc:0 "No se han hecho reparaciones. Las murallas permanecen como estaban: defectuosas, pero orgullosas.\n\n#X Si esto es sabiduría o locura, solo el tiempo lo dirá...#!"
+  
+ rk_drenched_modifier:0 "Empapado"
+ rk_drenched_modifier_desc:0 "Te has mojado por completo durante un paseo a caballo."
+
+ rk_commander_insights:0 "Consejos del Comandante de la Guardia Real"
+ rk_commander_insights_desc:0 "Has recibido valiosos consejos e ideas del Lord Comandante de la Guardia Real."
+
+ rk_new_hamlet:0 "Carta Real"
+ rk_new_hamlet_desc:0 "El bosque de Hayford paga ahora impuestos a su señor."
+
+ rk_abandoned_hamlet:0 "Aldea Abandonada"
+ rk_abandoned_hamlet_desc:0 "El bosque de Hayford ha quedado abandonado."
+
+ rk_razed_hamlet:0 "Aldea Arrasada"
+ rk_razed_hamlet_desc:0 "La aldea renegada ha sido reducida a cenizas."
+
+ rk_farmer_ruling:0 "Falló a favor de los campesinos"
+ rk_shepherd_ruling:0 "Falló a favor de los pastores"
+ rk_compromise_ruling:0 "Ley de pastos resuelta"
+ rk_compromise_ruling_desc:0 "La ley sobre el pastoreo ha quedado clara para todos tras un reciente fallo."
  
+ rk_reflecting_on_wealth:0 "Reflexionando sobre la prosperidad"
+ rk_reflecting_on_wealth_desc:0 "Este personaje reflexiona sobre su papel como monarca y el impacto que tiene en la prosperidad del reino."
  
- rk_recent_adventure: "Recently went on an adventure"
- rk_recent_adventure_desc: ""
- rk_on_adventure: "Adventuring"
- rk_on_adventure_desc: ""
+ rk_kingswood_poachers:0 "Furtivos en el Bosque Real"
+ rk_kingswood_poachers_desc:0 "Los cazadores furtivos campan a sus anchas en el Bosque Real, desafiando la justicia del Trono de Hierro."
  
- rk_wildfire_patron_danger: "Patron of the Pyromancers"
- rk_wildfire_patron_danger_desc: "This character is known for his support and relations with the pyromancers inside the Alchemist's Guild of King's Landing."
- rk_wildfire_patron: "Patron of the Alchemist's Guild"
- rk_wildfire_patron_desc: "This character is a patron of the Alchemist Guild of King's Landing."
+ rk_royal_benevolence:0 "Benevolencia Real"
+ rk_royal_benevolence_desc:0 "Los rumores crecen, señalando que este personaje muestra actos de bondad durante sus cabalgatas reales."
  
- rk_small_wildfire_stockpile: "Small Wildfire Stockpile"
- rk_small_wildfire_stockpile_desc: "A small cache of wildfire — sealed in reinforced jars and hidden deep beneath the Red Keep — is kept under strict watch by the Alchemist's Guild."
- rk_medium_wildfire_stockpile: "Moderate Wildfire Stockpile"
- rk_medium_wildfire_stockpile_desc: "Hundreds of pots of wildfire now fill the lower vaults of the Red Keep. The Alchemists are proud — and the Small Council increasingly nervous."
- rk_large_wildfire_stockpile: "Large Wildfire Stockpile"
- rk_large_wildfire_stockpile_desc: "Thousands of wildfire pots sit sealed in cavernous vaults. The temperature is monitored hourly. A single misstep could doom the city."
- rk_full_wildfire_stockpile: "Full Wildfire Stockpile"
- rk_full_wildfire_stockpile_desc: "The Red Keep Vaults are filled to the brim with inmesurable pots of the substance. The Alchemists beg restraint. The Maesters demand destruction."
+ rk_nobility_insights:0 "Perspectivas Nobiliarias"
+ rk_nobility_insights_desc:0 "Este personaje ha adquirido nuevos conocimientos sobre la pequeña nobleza durante una cabalgata."
  
- rk_defensive_wildfire_dromons_modifier: "Wildfire Galleys"
- rk_defensive_wildfire_dromons_modifier_desc: ""
+ rk_nobility_insights_2:0 "Perspectivas Nobiliarias"
+ rk_nobility_insights_2_desc:0 "Este personaje ha adquirido nuevos conocimientos sobre la pequeña nobleza durante una cabalgata."
  
- rk_assaulted_by_wildfire_modifier: "Assaulted by Wildfire"
- rk_assaulted_by_wildfire_modifier_desc: ""
- rk_ravaged_by_wildfire_modifier: "Ravaged by Wildfire"
- rk_ravaged_by_wildfire_modifier_desc: ""
- rk_defenders_immolated_wildfire_modifier: "Defenders Immolated"
- rk_defenders_immolated_wildfire_modifier_desc: ""
+ rk_maeglas_drink:0 "Vitalidad Antinatural"
+ rk_maeglas_drink_desc:0 "Una extraña y perturbadora vitalidad recorre las venas de este personaje, rechazando los límites de la edad y la enfermedad."
+  
+ #Crime
+ ###########################
+  
+ rk_kings_landing_modiifer:0 "Desembarco del Rey"
+ rk_kings_landing_modiifer_desc:0 ""
  
- rk_wildfire_trebuchets: "Walls armed with Wildfire"
- rk_wildfire_trebuchets_desc: "The City walls now count with two thousand pots of wildfire for the trebuchets to hurl at any besieging army."
+ rk_city_watch_modifier:0 "La Guardia de la Ciudad"
+ rk_city_watch_modifier_desc:0 ""
+  
+ #Famine
+ ##################################
+  
+ rk_well_fed:0 "Ciudad de Abundancia"
+ rk_well_fed_desc:0 "Los graneros de Desembarco del Rey rebosan, y los mercados están llenos de alimentos asequibles."
+ rk_sufficiently_fed:0 "Pan diario asegurado"
+ rk_sufficiently_fed_desc:0 "Llega suficiente comida a Desembarco del Rey para mantener el hambre lejos de la mayoría."
+ rk_food_strained:0 "Apretarse el cinturón"
+ rk_food_strained_desc:0 "El flujo de alimentos hacia Desembarco del Rey se ha debilitado. Los graneros no están tan llenos como deberían y los precios aumentan."
+ rk_hungry_population:0 "Población hambrienta"
+ rk_hungry_population_desc:0 "El hambre roe los estómagos de muchos en Desembarco del Rey. Los puestos del mercado son escasos, los precios desorbitados y los rostros del pueblo llano, demacrados."
+ rk_starving_population:0 "Población muriendo de hambre"
+ rk_starving_population_desc:0 "La población de Desembarco del Rey se muere de hambre. Los niños lloran, los débiles perecen y los disturbios por un mendrugo de pan son el pan de cada día."
+  
+ #Crime
+ ###########################################################################################################################################################
+  
+ rk_loyal_cw_commander:0 "Guardia de la Ciudad leal"
+ rk_loyal_cw_commander_desc:0 "El Comandante de la Guardia de la Ciudad permanece leal al Trono de Hierro, haciendo que las sombras de Desembarco del Rey sean un poco menos traicioneras. Es más difícil tramar bajo la atenta mirada de las capas doradas."
+ rk_disloyal_cw_commander:0 "Guardia de la Ciudad desleal"
+ rk_disloyal_cw_commander_desc:0 "Las capas doradas obedecen a otro. Los susurros circulan libremente, las intrigas se pudren sin control y la daga en la oscuridad puede encontrar su blanco antes de lo esperado."
+
+ #City
+ ########################################################################################################################################################
+
+ rk_king_difamed:0 "Trono de Hierro Difamado"
+ rk_king_difamed_desc:0 "El gobernante del Trono de Hierro está siendo difamado en las calles de Desembarco del Rey."
  
- rk_blackwater_defence: "Defender of King's Landing"
- rk_blackwater_defence_desc: "This character repelled the enemy fleet in Blackwater Bay."
+ rk_kings_verse:0 "Verso Real"
+ rk_kings_verse_desc:0 "Este personaje compuso un verso que rápidamente se hizo popular entre el pueblo de Desembarco del Rey."
  
- rk_seized_communal_lands: "Communal Lands Seized"
- rk_seized_communal_lands_desc: "The peasantry of Landingfield are angry about the loss of their communal lands."
+ rk_gallant_king:0 "Rumores que se Propagan"
+ rk_gallant_king_desc:0 "Corren rumores sobre tu reciente muestra de gallardía en las calles de Desembarco del Rey."
  
- rk_landing_rumors: "Rumours about the Throne"
- rk_landing_rumors_1: "Silenced Rumours"
+ rk_nobleman_humiliated:0 "Noble Humillado"
+ rk_nobleman_humiliated_desc:0 "Corren rumores sobre tu desprecio hacia la baja nobleza de Desembarco del Rey."
  
- rk_the_guilded_furnace_character: "The Guilded Furnace"
- rk_the_guilded_furnace_character_desc: "Rumour has it this character has mastered the secret of gold, using an army of alchemists to turn a rare variety of iron ore into pure gold."
+ rk_gk_corruption_uncovered:0 "Corrupción en la Guardia de la Ciudad Revelada"
+ rk_gk_corruption_uncovered_desc:0 "Los elementos corruptos dentro de la Guardia de la Ciudad han sido purgados."
  
- rk_wisdom_elixir_1: "Reinvigorated"
- rk_wisdom_elixir_1_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_2: "Reinvigorated"
- rk_wisdom_elixir_2_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_3: "Reinvigorated"
- rk_wisdom_elixir_3_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_4: "Reinvigorated"
- rk_wisdom_elixir_4_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_5: "Reinvigorated"
- rk_wisdom_elixir_5_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_6: "Reinvigorated"
- rk_wisdom_elixir_6_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_7: "Reinvigorated"
- rk_wisdom_elixir_7_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_8: "Reinvigorated"
- rk_wisdom_elixir_8_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_9: "Feeling Weak"
- rk_wisdom_elixir_9_desc: "You feel terrible after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_10: "terrible Weak"
- rk_wisdom_elixir_10_desc: "You feel terrible after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_11: "Reinvigorated"
- rk_wisdom_elixir_11_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_12: "Reinvigorated"
- rk_wisdom_elixir_12_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_13: "Feeling Weak"
- rk_wisdom_elixir_13_desc: "You feel terrible after drinking the elixir prepared by the Alchemist Guild."
- rk_wisdom_elixir_14: "Reinvigorated"
- rk_wisdom_elixir_14_desc: "You feel reinvigorated after drinking the elixir prepared by the Alchemist Guild."
+ rk_spet_funded:0 "Septiembre Financiado"
+ rk_spet_funded_desc:0 "Los septones de Desembarco del Rey disponen ahora de suficientes recursos para atender a los enfermos."
  
- rk_small_wildire_explosion: "Wildfire Explosion"
- rk_medium_wildire_explosion: "Large Wildire Explosion"
- rk_large_wildire_explosion: "Devastating Wildfire Explosion" 
+ rk_sept_burned:0 "Enfermos Quemados"
+ rk_sept_burned_desc:0 "Un gran número de enfermos fueron quemados vivos."
  
+ rk_extra_tolls:0 "Peajes Recaudados por las Capas Doradas"
+ rk_extra_tolls_desc:0 "Las capas doradas recaudan peajes en tu nombre durante los días más concurridos."
  
- rk_standing_army: "Standing Army"
- rk_standing_army_desc: "This character has received Royal permission to raise a standing army in defence of the Realm."
- rk_troops_west: "Royal Mission to the West"
- rk_troops_west_desc: "The Iron Throne has sent a large host to guard the western coast."
- rk_troops_west_2: "Royal Mission to the West"
- rk_troops_west_desc_2: "The Iron Throne has sent a large host to guard the western coast." 
+ rk_landlord_repairs:0 "Reparaciones en Lecho de Pulgas"
+ rk_landlord_repairs_desc:0 "Se han realizado importantes reparaciones en algunas de las calles peor conservadas del Lecho de Pulgas."
  
- rk_river_tolls: "River Tolls"
- rk_river_tolls_desc: "This Character is levying extra tolls at the key stops along the trident."
- rk_reduced_trade: "Reduced Trade"
- rk_reduced_trade_desc: "The recent set up of the river tolls has constrained trade into King's Landing." 
- rk_river_tolls_1: "River Tolls"
- rk_river_tolls_1_desc: "This Character is levying extra tolls at the key stops along the trident."
+ rk_landlord_repairs_2:0 "Reparaciones en Lecho de Pulgas"
+ rk_landlord_repairs_2_desc:0 "Se han llevado a cabo importantes reparaciones en algunas de las calles más deterioradas del Lecho de Pulgas."
  
- rk_free_city: "Free City"
- rk_free_city_desc: "The Guild's have been stripped of their control over trade and merchants from across the land now flood the market."
+ rk_landlord_disrepairs:0 "Lecho de Pulgas en Ruinas"
+ rk_landlord_disrepairs_desc:0 "Varias calles del Lecho de Pulgas han caído en un estado total de abandono."
  
- rk_guild_privileges: "Guild's Privileges Upheld"
- rk_guild_privileges_desc: "Guild's Privileges Upheld" 
+ rk_slum_profits:0 "Ganancias del Barrio Bajo"
+ rk_slum_profits_desc:0 "Tu parte de los beneficios procedentes de las rentas adicionales cobradas a los inquilinos del Lecho de Pulgas."
  
- rk_guilds_obligations: "High Guilds' Obligations"
- rl_guilds_obligations_desc: "The Guilds of King's Landing are paying their due to the Iron Throne."
- rk_guilds_obligations_ease: "Low Guild's Obligations"
- rl_guilds_obligations_ease_desc: "The Guild's of King's Landing enjoy a period of reduced obligations and the city thrives as a result."
+ rk_septon_blessing_modifier:0 "Bendición del Alto Septon"
+ rk_septon_blessing_modifier_desc:0 "Este personaje ha sido bendecido por el Alto Septon y por los propios dioses durante una gran ceremonia en el Septo de Baelor."
  
- rk_art_support: "Patron of the Arts"
- rk_art_support_desc: "This character is a renowned patron of the artists and artisans of King's Landing."
+ rk_sung_of_glory_1:0 "Canto de Gloria"
+ rk_sung_of_glory_1_desc:0 "La corte recuerda la audaz y apasionante interpretación ofrecida por este personaje: una canción de acero, fuego y victoria eterna."
  
- rk_guild_support: "Patron of the Stonemasons"
- rk_guild_support_desc: "This character is a renowned supporter of the stonemasons of King's Landing."
+ rk_sung_of_glory_2:0 "Canto de Gloria"
+ rk_sung_of_glory_2_desc:0 "Muchos en la corte aún hablan de la canción interpretada en el salón real: un momento de arte, voz y verso que unió brevemente a la corte en admiración."
  
- rk_crown_support_armies: "Royal Host"
- rk_crown_support_armies_desc: "Men have been dispatched to the wall to aid the Nightswatch in the defence of the realm."
- rk_crown_support_armies_1: "Royal Host to the Nightswatch"
- rk_crown_support_armies_1_desc: "Men have been dispatched to the wall to aid the Nightswatch in the defence of the realm." 
+ rk_sung_of_love:0 "Canto de Amor"
+ rk_sung_of_love_desc:0 "Muchos en la corte aún hablan de la canción interpretada en el salón real: un momento de arte, voz y verso que unió brevemente a la corte en admiración."
  
- rk_vassal_tax_withheld: "Great Lord's Witholding Taxes"
- rk_vassal_tax_withheld_desc: "Citing unrest in their own lands, the Great Lords withhold much of the tribute owed to the Iron Throne."
+ rk_sung_of_love_2:0 "Canto de Amor"
+ rk_sung_of_love_2_desc:0 "Muchos en la corte aún hablan de la canción interpretada en el salón real: un momento de arte, voz y verso que unió brevemente a la corte en admiración."
  
- rk_compromise_reached: "Compromised Reached"
- rk_compromise_reached_desc: "The Hand of the King has reached a compromise with teh Great Lords on the matter of taxation."
- rk_compromise_reached_1: "Compromised Reached"
- rk_compromise_reached_1_desc: "The Hand of the King has reached a compromise with teh Great Lords on the matter of taxation."
- rk_compromise_reached_2: "Compromised Reached"
- rk_compromise_reached_2_desc: "The Hand of the King has reached a compromise with teh Great Lords on the matter of taxation." 
- rk_compromise_reached_3: "Compromised Reached"
- rk_compromise_reached_3_desc: "The Hand of the King has reached a compromise with teh Great Lords on the matter of taxation." 
- rk_markets_seized: "Markets Seized"
- rk_markets_seized_desc: "The Key trade routes across Westeros have been seized by the Royal Fleet."
+ rk_sung_of_sorrow_1:0 "Canto de Tristeza"
+ rk_sung_of_sorrow_1_desc:0 "La corte recuerda la triste historia de Bael el Bardo y la doncella Stark: una canción que terminó en desamor, muerte y el silencio que sigue a la pérdida."
  
+ rk_sung_of_sorrow_2:0 "Canto de Tristeza"
+ rk_sung_of_sorrow_2_desc:0 "La corte recuerda la melancólica historia de Bael el Bardo y la doncella Stark: una canción que terminó en desamor, muerte y el silencio que sigue al amor perdido."
  
- rk_charlatan_elixir: "Reinvigorated"
- rk_charlatan_elixir_desc: "You feel unnaturally light and agile, better than you have ever felt."
+ rk_sung_hymn_1:0 "Himno Religioso Cantado"
+ rk_sung_hymn_1_desc:0 "La corte recuerda el inspirador himno entonado por este personaje: un recordatorio de que lo divino camina junto a los fieles y que la redención aguarda a quienes perseveran."
  
+ rk_sung_hymn_2:0 "Himno Religioso Cantado"
+ rk_sung_hymn_2_desc:0 "La corte reflexiona sobre el solemne himno interpretado por este personaje: una meditación sobre el silencio divino, la perseverancia y el peso del juicio invisible."
  
+ rk_sung_satire_1:0 "Sátira Cantada"
+ rk_sung_satire_1_desc:0 "La corte recuerda una canción amorosa juguetona pero sincera: una historia ingeniosa envuelta en amabilidad, risas y un toque de ternura."
+ 
+ rk_sung_satire_2:0 "Sátira Cantada"
+ rk_sung_satire_2_desc:0 "La corte aún se ríe del remate final de una broma brillantemente interpretada. Ingeniosa y encantadora, la canción dejó a muchos secándose las lágrimas de la risa."
+ 
+ rk_sung_of_legacy_1:0 "Canto del Legado"
+ rk_sung_of_legacy_1_desc:0 "La corte recuerda tu inspirador tributo a la sangre, el honor y el peso de la noble ascendencia. Un orgulloso recordatorio de que la historia avanza a través de los nombres —y el tuyo está entre ellos."
+ 
+ rk_sung_of_legacy_2:0 "Canto del Legado"
+ rk_sung_of_legacy_2_desc:0 "La corte reflexiona sobre tus humildes palabras: que ninguna casa, ningún título, ningún nombre perdura a menos que sus hechos sean dignos de memoria."
+
+
+
+ rk_recent_adventure:0 "Recientemente en una Aventura"
+ rk_recent_adventure_desc:0 ""
+ rk_on_adventure:0 "En Aventura"
+ rk_on_adventure_desc:0 ""
+ 
+ rk_wildfire_patron_danger:0 "Patrono de los Piromantes"
+ rk_wildfire_patron_danger_desc:0 "Este personaje es conocido por su apoyo y sus vínculos con los piromantes de la Cofradía de Alquimistas de Desembarco del Rey."
+ 
+ rk_wildfire_patron:0 "Patrono de la Cofradía de Alquimistas"
+ rk_wildfire_patron_desc:0 "Este personaje es un benefactor de la Cofradía de Alquimistas de Desembarco del Rey."
+ 
+ rk_small_wildfire_stockpile:0 "Pequeña Reserva de Fuego Valyrio"
+ rk_small_wildfire_stockpile_desc:0 "Una pequeña reserva de fuego valyrio —sellada en tarros reforzados y oculta bajo la Fortaleza Roja— es vigilada estrictamente por la Cofradía de Alquimistas."
+ 
+ rk_medium_wildfire_stockpile:0 "Reserva Moderada de Fuego Valyrio"
+ rk_medium_wildfire_stockpile_desc:0 "Cientos de tarros de fuego valyrio llenan ahora las bóvedas inferiores de la Fortaleza Roja. Los alquimistas se enorgullecen… y el Consejo Privado se muestra cada vez más nervioso."
+ 
+ rk_large_wildfire_stockpile:0 "Gran Reserva de Fuego Valyrio"
+ rk_large_wildfire_stockpile_desc:0 "Miles de tarros de fuego valyrio reposan sellados en bóvedas cavernosas. La temperatura se controla cada hora. Un solo error podría condenar la ciudad."
+ 
+ rk_full_wildfire_stockpile:0 "Reserva Completa de Fuego Valyrio"
+ rk_full_wildfire_stockpile_desc:0 "Las bóvedas de la Fortaleza Roja rebosan de innumerables tarros de la Sustancia. Los alquimistas suplican prudencia. Los maestres exigen su destrucción."
+ 
+ rk_defensive_wildfire_dromons_modifier:0 "Galeras con Fuego Valyrio"
+ rk_defensive_wildfire_dromons_modifier_desc:0 ""
+ 
+ rk_assaulted_by_wildfire_modifier:0 "Atacado con Fuego Valyrio"
+ rk_assaulted_by_wildfire_modifier_desc:0 ""
+ 
+ rk_ravaged_by_wildfire_modifier:0 "Devastado por Fuego Valyrio"
+ rk_ravaged_by_wildfire_modifier_desc:0 ""
+ 
+ rk_defenders_immolated_wildfire_modifier:0 "Defensores Inmolados"
+ rk_defenders_immolated_wildfire_modifier_desc:0 ""
+ 
+ rk_wildfire_trebuchets:0 "Murallas Armadas con Fuego Valyrio"
+ rk_wildfire_trebuchets_desc:0 "Las murallas de la ciudad cuentan ahora con dos mil tarros de fuego valyrio, listos para ser lanzados por los trabuquetes contra cualquier ejército sitiador."
+ 
+ rk_blackwater_defence:0 "Defensor de Desembarco del Rey"
+ rk_blackwater_defence_desc:0 "Este personaje logró repeler la flota enemiga en la Bahía del Aguasnegras."
+ 
+ rk_seized_communal_lands:0 "Tierras Comunales Confiscadas"
+ rk_seized_communal_lands_desc:0 "El campesinado de Landingfield está furioso por la pérdida de sus tierras comunales."
+ 
+ rk_landing_rumors:0 "Rumores sobre el Trono"
+ rk_landing_rumors_1:0 "Rumores Silenciados"
+ 
+ rk_the_guilded_furnace_character:0 "El Horno Dorado"
+ rk_the_guilded_furnace_character_desc:0 "Se rumorea que este personaje ha dominado el secreto del oro, utilizando un ejército de alquimistas para transformar un raro tipo de mineral de hierro en oro puro."
+ 
+ rk_wisdom_elixir_1:0 "Reinvigorizado"
+ rk_wisdom_elixir_1_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_2:0 "Reinvigorizado"
+ rk_wisdom_elixir_2_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_3:0 "Reinvigorizado"
+ rk_wisdom_elixir_3_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_4:0 "Reinvigorizado"
+ rk_wisdom_elixir_4_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_5:0 "Reinvigorizado"
+ rk_wisdom_elixir_5_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_6:0 "Reinvigorizado"
+ rk_wisdom_elixir_6_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_7:0 "Reinvigorizado"
+ rk_wisdom_elixir_7_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_8:0 "Reinvigorizado"
+ rk_wisdom_elixir_8_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_9:0 "Débil"
+ rk_wisdom_elixir_9_desc:0 "Te sientes terriblemente mal tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_10:0 "Débil Extenuado"
+ rk_wisdom_elixir_10_desc:0 "Te sientes terriblemente mal tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_11:0 "Reinvigorizado"
+ rk_wisdom_elixir_11_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_12:0 "Reinvigorizado"
+ rk_wisdom_elixir_12_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_13:0 "Débil"
+ rk_wisdom_elixir_13_desc:0 "Te sientes terriblemente mal tras beber el elixir preparado por la Cofradía de Alquimistas."
+ rk_wisdom_elixir_14:0 "Reinvigorizado"
+ rk_wisdom_elixir_14_desc:0 "Te sientes revitalizado tras beber el elixir preparado por la Cofradía de Alquimistas."
+
+ rk_small_wildire_explosion:0 "Explosión de fuego valyrio"
+ rk_medium_wildire_explosion:0 "Gran explosión de fuego valyrio"
+ rk_large_wildire_explosion:0 "Explosión devastadora de fuego valyrio" 
+ 
+ rk_standing_army:0 "Ejército Permanente"
+ rk_standing_army_desc:0 "Este personaje ha recibido permiso real para mantener un ejército permanente en defensa del Reino."
+ 
+ rk_troops_west:0 "Misión Real al Oeste"
+ rk_troops_west_desc:0 "El Trono de Hierro ha enviado un gran ejército para proteger la costa occidental."
+ rk_troops_west_2:0 "Misión Real al Oeste"
+ rk_troops_west_desc_2:0 "El Trono de Hierro ha enviado un gran ejército para proteger la costa occidental." 
+ 
+ rk_river_tolls:0 "Peajes Fluviales"
+ rk_river_tolls_desc:0 "Este personaje impone peajes adicionales en los puntos clave a lo largo del Tridente."
+ 
+ rk_reduced_trade:0 "Comercio Reducido"
+ rk_reduced_trade_desc:0 "La reciente instauración de peajes fluviales ha restringido el comercio hacia Desembarco del Rey." 
+ 
+ rk_river_tolls_1:0 "Peajes Fluviales"
+ rk_river_tolls_1_desc:0 "Este personaje impone peajes adicionales en los puntos clave a lo largo del Tridente."
+ 
+ rk_free_city:0 "Ciudad Libre"
+ rk_free_city_desc:0 "Los gremios han sido despojados de su control sobre el comercio, y mercaderes de todo el reino inundan ahora los mercados."
+ 
+ rk_guild_privileges:0 "Privilegios Gremiales Mantenidos"
+ rk_guild_privileges_desc:0 "Los privilegios de los gremios se mantienen intactos."
+ 
+ rk_guilds_obligations:0 "Altas Obligaciones Gremiales"
+ rl_guilds_obligations_desc:0 "Los gremios de Desembarco del Rey pagan sus debidas contribuciones al Trono de Hierro."
+ 
+ rk_guilds_obligations_ease:0 "Bajas Obligaciones Gremiales"
+ rl_guilds_obligations_ease_desc:0 "Los gremios de Desembarco del Rey disfrutan de un periodo de obligaciones reducidas, y la ciudad prospera como resultado."
+ 
+ rk_art_support:0 "Patrono de las Artes"
+ rk_art_support_desc:0 "Este personaje es un reconocido mecenas de los artistas y artesanos de Desembarco del Rey."
+ rk_guild_support:0 "Patrono de los Canteros"
+ rk_guild_support_desc:0 "Este personaje es un célebre benefactor de los canteros de Desembarco del Rey."
+ 
+ rk_crown_support_armies:0 "Hueste Real"
+ rk_crown_support_armies_desc:0 "Se han enviado hombres al Muro para ayudar a la Guardia de la Noche en la defensa del reino."
+ rk_crown_support_armies_1:0 "Hueste Real a la Guardia de la Noche"
+ rk_crown_support_armies_1_desc:0 "Se han enviado hombres al Muro para ayudar a la Guardia de la Noche en la defensa del reino." 
+ 
+ rk_vassal_tax_withheld:0 "Grandes Señores Retienen Tributos"
+ rk_vassal_tax_withheld_desc:0 "Alegando disturbios en sus propias tierras, los grandes señores retienen buena parte del tributo adeudado al Trono de Hierro."
+ 
+ rk_compromise_reached:0 "Compromiso alcanzado"
+ rk_compromise_reached_desc:0 "La Mano del Rey ha alcanzado un compromiso con los grandes señores en materia de impuestos."
+ rk_compromise_reached_1:0 "Compromiso alcanzado"
+ rk_compromise_reached_1_desc:0 "La Mano del Rey ha alcanzado un compromiso con los grandes señores en materia de impuestos."
+ rk_compromise_reached_2:0 "Compromiso alcanzado"
+ rk_compromise_reached_2_desc:0 "La Mano del Rey ha alcanzado un compromiso con los grandes señores en materia de impuestos."
+ rk_compromise_reached_3:0 "Compromiso alcanzado"
+ rk_compromise_reached_3_desc:0 "La Mano del Rey ha alcanzado un compromiso con los grandes señores en materia de impuestos." 
+ 
+ rk_markets_seized:0 "Mercados Tomados"
+ rk_markets_seized_desc:0 "Las principales rutas comerciales de Poniente han sido tomadas por la Flota Real."
+ 
+ rk_charlatan_elixir:0 "Reinvigorizado"
+ rk_charlatan_elixir_desc:0 "Te sientes antinaturalmente ligero y ágil, mejor que nunca."
+
  ### Gold Cloacks Level
  
- rk_city_watch_neglected: "City Watch Neglected"
- rk_city_watch_neglected_desc: "With meager pay and poor supplies, the Goldcloaks shirk their duties. Crime festers in the alleys, unchecked by tired patrols."
- rk_city_watch_funded: "City Watch Funded"
- rk_city_watch_funded_desc: "The Goldcloaks are adequately supplied and paid, patrolling the streets with a semblance of order. Enough to keep crime at bay, if barely."
- rk_city_watch_well_funded: "City Watch Well-Funded"
- rk_city_watch_well_funded_desc: "With coffers full and command strong, the Goldcloaks march proudly through King’s Landing. Their presence is felt in every street, and crime dares not flourish openly."
- rk_city_watch_corrupt: "Corrupt City Watch" 
- rk_city_watch_corrupt_desc: "The Goldcloaks serve coin, not the throne. Bribes line their pockets, crimes are ignored, and some whisper the watch is as dangerous as the criminals themselves."
+ rk_city_watch_neglected:0 "Guardia de la Ciudad desatendida"
+ rk_city_watch_neglected_desc:0 "Con un salario miserable y escasos suministros, las capas doradas descuidan sus deberes. El crimen se propaga en los callejones, sin control de unas patrullas agotadas."
  
+ rk_city_watch_funded:0 "Guardia de la Ciudad financiada"
+ rk_city_watch_funded_desc:0 "Las capas doradas reciben paga y suministros adecuados, patrullando las calles con cierto orden. Suficiente para mantener a raya el crimen, aunque por poco."
  
+ rk_city_watch_well_funded:0 "Guardia de la Ciudad bien financiada"
+ rk_city_watch_well_funded_desc:0 "Con arcas llenas y mando firme, las capas doradas marchan con orgullo por Desembarco del Rey. Su presencia se siente en cada calle, y el crimen no se atreve a prosperar abiertamente."
+ 
+ rk_city_watch_corrupt:0 "Guardia de la Ciudad corrupta"
+ rk_city_watch_corrupt_desc:0 "Las capas doradas sirven al oro, no al trono. Los sobornos llenan sus bolsillos, los crímenes se ignoran y algunos susurran que la Guardia es tan peligrosa como los propios criminales."
+
  ### Crime Negative Modifiers
- 
- rk_kidnappings: "Kidnappings Rampant"
- rk_kidnappings_desc: "A rash of abductions has unsettled the smallfolk. Fear stalks the streets, and ransom notes circulate as often as coin."
 
- rk_arson: "Arson Rampant"
- rk_arson_desc: "Fires of suspicious origin plague King’s Landing, leaving homes in cinders and hearts full of dread."
+ rk_kidnappings:0 "Secuestros desenfrenados"
+ rk_kidnappings_desc:0 "Una oleada de secuestros ha perturbado al pueblo llano. El miedo acecha en las calles y las notas de rescate circulan tan a menudo como las monedas."
+ rk_arson:0 "Incendios provocados"
+ rk_arson_desc:0 "Incendios de origen sospechoso asolan Desembarco del Rey, dejando hogares reducidos a cenizas y corazones llenos de temor."
+ rk_smugglers_coup:0 "Golpe de los contrabandistas"
+ rk_smugglers_coup_desc:0 "Los contrabandistas del puerto han tomado el control de almacenes clave, reforzando su dominio sobre el comercio de la ciudad y desafiando a la Corona."
+ rk_black_market:0 "Mercado negro en auge"
+ rk_black_market_desc:0 "Mercancías ilícitas inundan los puestos de la ciudad, enriqueciendo a ladrones y estafadores mientras destruyen el comercio honesto."
+ rk_counterfeit_coin:0 "Moneda falsa en circulación"
+ rk_counterfeit_coin_desc:0 "Plata falsa y cobres recortados se esparcen por los mercados, minando la confianza en la moneda de la Corona."
+ rk_secret_syndicate:0 "Sindicatos en ascenso"
+ rk_secret_syndicate_desc:0 "Los susurros hablan de una hermandad oculta que une a ladrones, asesinos y contrabandistas bajo una sola mano secreta." 
+ rk_gang_wars:0 "Guerras de bandas"
+ rk_gang_wars_desc:0 "Bandas rivales se enfrentan abiertamente en el Lecho de Pulgas, dejando cadáveres en los callejones y terror en los corazones del pueblo llano."
+ rk_random_revolts:0 "¡Revuelta del Pueblo Llano!"
+ rk_random_revolts_desc:0 "Grandes multitudes del pueblo llano se alzan en el Lecho de Pulgas, buscando venganza tras la muerte de uno de los suyos a manos de un caballero."
+ rk_bribery_rampant:0 "Sobornos desenfrenados"
+ rk_bribery_rampant_desc:0 "Las monedas cambian de mano en cada salón y callejón. Pocos funcionarios actúan sin la guía de la plata."
+ rk_murder_spree:0 "Oleada de asesinatos"
+ rk_murder_spree_desc:0 "Una serie de asesinatos sacude la ciudad —algunos por lucro, otros por placer— todos dejando el miedo a su paso."
+ rk_cult_activity:0 "Actividad de Cultos"
+ rk_cult_activity_desc:0 "Oscuras reuniones susurran en sótanos y alcantarillas, sus ritos alimentando el miedo y los rumores de poderes impíos."
+  rk_dock_strikes:0 "Huelgas en los Muelles"
+ rk_dock_strikes_desc:0 "Los trabajadores portuarios han dejado sus herramientas, paralizando el comercio y sumiendo el Aguasnegras en un inquietante silencio."
+ rk_tavern_brawls:0 "Riñas en las tabernas"
+ rk_tavern_brawls_desc:0 "Las peleas de borrachos se extienden por las calles cada noche, manteniendo ocupadas a las capas doradas e inquieto al pueblo."
+ rk_sewer_corpses:0 "Cadáveres en las alcantarillas"
+ rk_sewer_corpses_desc:0 "Cuerpos son arrojados a las alcantarillas de la ciudad, esparciendo el miedo… y lo que es peor, la enfermedad."
+ rk_silk_street_scandals:0 "Escándalos en la Calle de la Seda"
+ rk_silk_street_scandals_desc:0 "Burdeles y cortesanas en la Calle de la Seda provocan constantes escándalos, socavando la dignidad de la Corona."
+ rk_shakedowns:0 "Extorsiones desenfrenadas"
+ rk_shakedowns_desc:0 "Comerciantes y artesanos son exprimidos por criminales y guardias corruptos por igual."
+ rk_coin_clipping:0 "Recorte de monedas"
+ rk_coin_clipping_desc:0 "Las monedas recortadas y limadas circulan por los mercados, debilitando la confianza en la Casa de la Moneda Real."
+ rk_warehouse_fires:0 "Incendios en almacenes"
+ rk_warehouse_fires_desc:0 "Los almacenes del puerto arden con inquietante frecuencia, destruyendo mercancías y alimentando rumores de sabotaje." 
+ rk_food_riots:0 "Disturbios por comida en el Lecho de Pulgas"
+ rk_food_riots_desc:0 "El hambre atenaza la parte más pobre de la ciudad, y las turbas asaltan panaderías y mercados. La sangre se mezcla con el grano derramado en las calles de Desembarco del Rey." 
+ rk_gc_crackdown:0 "Redada de las Capas Doradas"
+ rk_gc_crackdown_desc:0 "Las capas doradas han llevado a cabo recientemente una redada para frenar el crimen en la ciudad."
+ rk_gc_tithe:0 "Diezmo especial recaudado"
+ rk_gc_tithe_desc:0 "El Trono ha enviado a las capas doradas a recaudar un diezmo especial por cualquier medio necesario."
 
- rk_smugglers_coup: "Smugglers’ Coup"
- rk_smugglers_coup_desc: "Dockside smugglers have seized control of key warehouses, tightening their grip on the city’s trade and defying the Crown."
-
- rk_black_market: "Black Market Thriving"
- rk_black_market_desc: "Illicit goods flood the city’s stalls, enriching cutthroats and cheats while hollowing out honest trade."
-
- rk_counterfeit_coin: "Counterfeit Coin Circulating"
- rk_counterfeit_coin_desc: "False silver and clipped coppers spread through the markets, shaking trust in the Crown’s currency."
-
- rk_secret_syndicate: "Syndicate Ascendant"
- rk_secret_syndicate_desc: "Whispers speak of a hidden brotherhood binding the city’s thieves, killers, and smugglers under one secret hand." 
-
- rk_gang_wars: "Gang Wars"
- rk_gang_wars_desc: "Rival street gangs battle openly in Flea Bottom, leaving corpses in alleys and terror in the hearts of the smallfolk."
-
- rk_random_revolts: "Smallfolk Uprising!"
- rk_random_revolts_desc: "Large crowds of smallfolk are revolting in flea bottom. They seek revenge after a Knight slayed one of them."
-
- rk_bribery_rampant: "Bribery Rampant"
- rk_bribery_rampant_desc: "Coin passes from hand to hand in every hall and alley. Few officials act without silver to guide them."
-
- rk_murder_spree: "Murder Spree"
- rk_murder_spree_desc: "A wave of killings has struck the city — some for profit, some for sport, all leaving fear in their wake."
-
- rk_cult_activity: "Cult Activity"
- rk_cult_activity_desc: "Dark gatherings whisper in cellars and sewers, their rites fueling unease and rumors of unholy powers."
- 
- rk_dock_strikes: "Dock Strikes"
- rk_dock_strikes_desc: "Dockworkers have laid down their tools, stalling trade and leaving the Blackwater Rush eerily quiet."
-
- rk_tavern_brawls: "Tavern Brawls Surge"
- rk_tavern_brawls_desc: "Drunken brawls spill into the streets each night, keeping the Goldcloaks busy and the smallfolk uneasy."
-
- rk_sewer_corpses: "Corpses in the Sewers"
- rk_sewer_corpses_desc: "Bodies are being dumped into the city’s sewers, spreading fear — and worse, disease."
-
- rk_silk_street_scandals: "Silk Street Scandals"
- rk_silk_street_scandals_desc: "Brothels and bawds on the Street of Silk stir constant scandals, undermining the dignity of the Crown."
-
- rk_shakedowns: "Shakedowns Rampant"
- rk_shakedowns_desc: "Merchants and artisans are squeezed for coin by criminals and corrupt watchmen alike."
-
- rk_coin_clipping: "Coin Clipping"
- rk_coin_clipping_desc: "Clipped and shaven coins spread through the markets, sapping trust in royal minting."
-
- rk_warehouse_fires: "Warehouse Fires"
- rk_warehouse_fires_desc: "Dockside warehouses burn suspiciously often, destroying goods and fueling rumors of sabotage." 
- 
- rk_food_riots: "Food Riots in Flea Bottom"
- rk_food_riots_desc: "Hunger grips the lowliest part of the city, and mobs storm the bakeries and markets. Blood mixes with spilled grain in the streets of King’s Landing." 
- 
- rk_gc_crackdown: "Goldcloacks Crackdown"
- rk_gc_crackdown_desc: "The Goldcloacks have recently carried out a crackdown on crime in the city."
- 
- rk_gc_tithe: "Special Tithe Collected"
- rk_gc_tithe_desc: "The Throne has sent in the goldcloacks to collect a special tithe by any means necesary."
- 
- 
  ###SANITATION
+ rk_kl_stench_1:0 "El hedor de Desembarco del Rey: fétido"
+ rk_kl_stench_1_desc:0 "Lecho de Pulgas supura con pozos negros poco profundos, las calles corren con estiércol y despojos, y las cubas de los curtidores envenenan el aire. El hedor de Desembarco del Rey se aferra a cada callejón y se filtra incluso en la Fortaleza Roja."
+
+ rk_kl_stench_2:0 "El hedor de Desembarco del Rey: nauseabundo"
+ rk_kl_stench_2_desc:0 "Los peores pozos negros han sido vaciados, pero la inmundicia aún se acumula en las cunetas y el aire sigue pesado con el olor de pieles y desechos podridos. La ciudad sigue siendo una letrina, aunque ya no de nombre."
+
+ rk_kl_stench_3:0 "El hedor de Desembarco del Rey: agrio"
+ rk_kl_stench_3_desc:0 "Han comenzado limpiezas regulares en Lecho de Pulgas, y los carros retiran los desperdicios cuando pueden. Aun así, las cunetas apestan y el olor de los curtidores sigue flotando sobre los mercados."
+
+ rk_kl_stench_4:0 "El hedor de Desembarco del Rey: intenso"
+ rk_kl_stench_4_desc:0 "Los callejones de Lecho de Pulgas ya no se ahogan en inmundicia, y los hombres del estiércol la transportan más allá de las murallas. El hedor ha disminuido, aunque el calor del verano pronto lo devuelve a las narices."
+
+ rk_kl_stench_5:0 "El hedor de Desembarco del Rey: perceptible"
+ rk_kl_stench_5_desc:0 "Con pozos negros más profundos y una retirada más regular de los desperdicios, la peor suciedad ha sido contenida. Desembarco del Rey aún apesta, pero ya no abruma a quienes cruzan sus puertas."
+
+ rk_kl_stench_6:0 "El hedor de Desembarco del Rey: leve"
+ rk_kl_stench_6_desc:0 "El agua limpia llega a la ciudad y los desechos se retiran cada noche. El hedor persiste en ciertos distritos, aunque las calles son más seguras y las enfermedades ya no se propagan como antes."
+
+ rk_kl_stench_7:0 "El hedor de Desembarco del Rey: tolerable"
+ rk_kl_stench_7_desc:0 "Aunque la ciudad nunca estará libre del mal olor, Desembarco del Rey huele ahora de forma apenas tolerable. Lecho de Pulgas está más limpio, los mercados son menos fétidos y hasta los salones de la Fortaleza Roja ya no cargan con la peste de las calles de abajo."
  
- rk_kl_stench_1: "The Stench of King’s Landing: Foul"
- rk_kl_stench_1_desc: "Flea Bottom festers with shallow cesspits, the streets run with dung and offal, and the tanners’ vats poison the air. The reek of King’s Landing clings to every alley and seeps even into the Red Keep."
+ rk_sanitation_effort:0 "Esfuerzo de saneamiento"
+ rk_sanitation_effort_desc:0 "Durante un breve tiempo, las calles de Desembarco del Rey han sido barridas y las letrinas vaciadas. Lo peor de la suciedad ha sido despejado, pero sin obras permanentes, la ciudad volverá pronto a pudrirse."
 
- rk_kl_stench_2: "The Stench of King’s Landing: Rank"
- rk_kl_stench_2_desc: "The worst cesspits have been cleared, yet filth still pools in the gutters and the air hangs heavy with the smell of hides and rotting waste. The city remains a cesspit in all but name."
+ rk_slum_destruction:0 "Destrucción de arrabales"
+ rk_slum_destruction_desc:0 "Los arrabales han sido despejados de las arterias principales de Desembarco del Rey. El pueblo llano no está contento."
 
- rk_kl_stench_3: "The Stench of King’s Landing: Sour"
- rk_kl_stench_3_desc: "Regular cleanings have begun in Flea Bottom, and carts haul refuse away when they can. Still, the gutters reek and the smell of the tanners lingers over the markets."
-
- rk_kl_stench_4: "The Stench of King’s Landing: Strong"
- rk_kl_stench_4_desc: "The alleys of Flea Bottom no longer drown in waste, and nightsoil men cart dung beyond the walls. The stench has lessened, though summer heat soon brings it back to the nose."
-
- rk_kl_stench_5: "The Stench of King’s Landing: Noticeable"
- rk_kl_stench_5_desc: "With cesspits dug deeper and waste carried off more regularly, much of the worst filth has been checked. King’s Landing still stinks, but no longer overwhelms all who enter the gates."
-
- rk_kl_stench_6: "The Stench of King’s Landing: Mild"
- rk_kl_stench_6_desc: "Clean water reaches the city and refuse is hauled away nightly. The stench lingers in certain districts, yet the streets are safer to walk and sickness no longer spreads as before."
-
- rk_kl_stench_7: "The Stench of King’s Landing: Tolerable"
- rk_kl_stench_7_desc: "Though the city will never be free of odor, King’s Landing now smells merely tolerable. Flea Bottom is cleaner, the markets are less foul, and even the Red Keep’s halls no longer carry the reek of the streets below."
- 
- rk_sanitation_effort: "Sanitation Effort"
- rk_sanitation_effort_desc: "For a brief time, the streets of King’s Landing have been swept and privies emptied. The worst of the filth has been cleared away, but without lasting works the city will soon fester once more."
- 
- rk_slum_destruction: "Slum Destruction"
- rk_slum_destruction_desc: "Slums have been cleared from the key arteries of King's Landing. The smallfolk are not happy."
- 
- rk_braavosi_assistance: "Braavosi Assitance"
- rk_braavosi_assistance_desc: "This character is assisted by a team of experienced Braavosi architects, experts in ancient valyrian architecture."
- 
+ rk_braavosi_assistance:0 "Asistencia braavosi"
+ rk_braavosi_assistance_desc:0 "Este personaje cuenta con la ayuda de un equipo de arquitectos braavosi experimentados, expertos en arquitectura valyria antigua."
  
  ###ROYAL MINT
  
- rk_seignorage_profits: "Seigniorage Profits"
- rk_seignorage_profits_desc: "By centralising the minting of coinage in King’s Landing, the Iron Throne retains the profit from every weight of bullion struck into coin. Each dragon, stag, and star returns a little less to its bearer, the difference flowing into the royal treasury as rightful gain."
+ rk_seignorage_profits:0 "Beneficios del señoreaje"
+ rk_seignorage_profits_desc:0 "Al centralizar la acuñación de moneda en Desembarco del Rey, el Trono de Hierro conserva el beneficio de cada onza de metal convertida en moneda. Cada dragón, ciervo y estrella devuelve un poco menos a su portador, y la diferencia fluye al tesoro real como ganancia legítima."
  
- rk_pure_coinage: "Pure Coinage"
- rk_pure_coinage_desc: "The dragons of gold, the stags of silver, and the stars of copper shine bright and true. Each coin is struck to the highest purity, its weight beyond question. Merchants speak of your coinage with reverence, and even the Braavosi cannot deny its worth."
+ rk_pure_coinage:0 "Moneda pura"
+ rk_pure_coinage_desc:0 "Los dragones de oro, los ciervos de plata y las estrellas de cobre brillan con pureza y precisión. Cada moneda se acuña con la más alta calidad, su peso es incuestionable. Los mercaderes hablan de tu moneda con reverencia, y ni siquiera los braavosi pueden negar su valor."
 
- rk_strong_coinage: "Strong Coinage"
- rk_strong_coinage_desc: "The coin of the realm is trusted across the Seven Kingdoms and beyond the Narrow Sea. Though not flawless, the dragons, stags, and stars bear their weight honestly, and the people take them with confidence."
+ rk_strong_coinage:0 "Moneda fuerte"
+ rk_strong_coinage_desc:0 "La moneda del reino es confiable en los Siete Reinos y más allá del Mar Angosto. Aunque no perfecta, los dragones, ciervos y estrellas mantienen su peso honesto, y el pueblo las acepta con confianza."
 
- rk_common_coinage: "Common Coinage"
- rk_common_coinage_desc: "The mint strikes coin of fair make, neither strong nor weak. The dragons jingle in purses and the stags pass from hand to hand without comment. The smallfolk accept them, though none boast of their quality."
+ rk_common_coinage:0 "Moneda común"
+ rk_common_coinage_desc:0 "La Casa de la Moneda acuña monedas de calidad aceptable, ni fuertes ni débiles. Los dragones tintinean en las bolsas y los ciervos pasan de mano en mano sin comentario alguno. El pueblo las acepta, aunque nadie presume de su calidad."
 
- rk_debased_coinage: "Debased Coinage"
- rk_debased_coinage_desc: "Whispers spread in markets and counting houses: the king’s dragons are thin, the stags clipped, the stars lighter than they ought be. Trust wanes, and merchants demand more to part with their goods. The coffers swell quickly, but the realm’s faith in its coin is crumbling."
+ rk_debased_coinage:0 "Moneda degradada"
+ rk_debased_coinage_desc:0 "Corren rumores en los mercados y casas de cambio: los dragones del rey son finos, los ciervos recortados, las estrellas más ligeras de lo que deberían ser. La confianza decae y los mercaderes exigen más para desprenderse de sus bienes. Las arcas se llenan con rapidez, pero la fe del reino en su moneda se desmorona."
 
- rk_worthless_coinage: "Worthless Coinage"
- rk_worthless_coinage_desc: "Once proud dragons now trade like brass trinkets, their shine revealing only fraud. The markets shun your coin, and even the smallfolk hoard old pieces rather than accept new. To spend the king’s money is to invite laughter, for all know it is false."
+ rk_worthless_coinage:0 "Moneda sin valor"
+ rk_worthless_coinage_desc:0 "Los otrora orgullosos dragones ahora se comercian como baratijas de bronce, su brillo revela solo el fraude. Los mercados rechazan tu moneda, y hasta el pueblo prefiere guardar las piezas antiguas antes que aceptar las nuevas. Gastar el dinero del rey es motivo de burla, pues todos saben que es falso."
  
- rk_debased_county_modifier: "Debased Coinage"
- rk_debased_county_modifier_desc: "The inhabitants of King's Landing have noticed the lower quality of recently issued coin."
- rk_recoined_county_modifier: "Debased Coinage"
- rk_recoined_county_modifier_desc: "The inhabitants of King's Landing have noticed the better quality of recently issued coin." 
+ rk_debased_county_modifier:0 "Moneda degradada"
+ rk_debased_county_modifier_desc:0 "Los habitantes de Desembarco del Rey han notado la menor calidad de las monedas recientemente emitidas."
+ rk_recoined_county_modifier:0 "Moneda renovada"
+ rk_recoined_county_modifier_desc:0 "Los habitantes de Desembarco del Rey han notado la mejor calidad de las monedas recientemente emitidas." 
   
- rk_tariffs_on_us: "Iron Throne Tariffs"
- rk_tariffs_on_us_desc: "The Iron Throne is greatly damaging our trade with their imposition of tariffs on the ports of King's Landing."  
+ rk_tariffs_on_us:0 "Aranceles del Trono de Hierro"
+ rk_tariffs_on_us_desc:0 "El Trono de Hierro está dañando gravemente nuestro comercio con la imposición de aranceles en los puertos de Desembarco del Rey."  
   
-  
- rk_tariff_arbor_wine: "Tariffs on Arbor Wine"
- rk_tariff_arbor_wine_desc: "The Arbor’s famed wines are taxed heavily at port, filling the royal coffers but souring relations with the Redwynes and their allies."
+ rk_tariff_arbor_wine:0 "Aranceles sobre el vino del Rejo"
+ rk_tariff_arbor_wine_desc:0 "Los famosos vinos del Rejo son gravados con fuertes impuestos en el puerto, llenando las arcas reales pero agriando las relaciones con los Redwyne y sus aliados."
 
- rk_tariff_iron_salt: "Tariffs on Iron and Salt"
- rk_tariff_iron_salt_desc: "Iron goods and salted fish face new duties, swelling the treasury but angering the Ironborn who trade them."
+ rk_tariff_iron_salt:0 "Aranceles sobre hierro y sal"
+ rk_tariff_iron_salt_desc:0 "Los bienes de hierro y el pescado salado afrontan nuevos impuestos, engordando el tesoro real pero enfureciendo a los hijos del Hierro que los comercian."
 
- rk_tariff_silverware: "Tariffs on Silverware"
- rk_tariff_silverware_desc: "Lannisport’s silver and gold crafts are burdened by Crown tariffs, enriching the Iron Throne at the cost of Westerlands’ goodwill."
+ rk_tariff_silverware:0 "Aranceles sobre orfebrería"
+ rk_tariff_silverware_desc:0 "Las artesanías de plata y oro de Lannisport cargan con los aranceles de la Corona, enriqueciendo al Trono de Hierro a costa del favor de las Tierras del Oeste."
 
- rk_tariff_dornish_wine_citrus: "Tariffs on Dornish Goods"
- rk_tariff_dornish_wine_citrus_desc: "The wines and fruits of Dorne are taxed at higher rates, lining the royal purse but drawing the ire of Dornish merchants."
+ rk_tariff_dornish_wine_citrus:0 "Aranceles sobre productos dorneses"
+ rk_tariff_dornish_wine_citrus_desc:0 "Los vinos y frutas de Dorne son gravados con tasas más altas, llenando la bolsa real pero provocando la ira de los mercaderes dorneses."
 
- rk_tariff_timber_furs: "Tariffs on Timber and Furs"
- rk_tariff_timber_furs_desc: "Northern furs and timber pay heavier tolls, sending coin to King’s Landing but souring trade from White Harbor and beyond."
+ rk_tariff_timber_furs:0 "Aranceles sobre madera y pieles"
+ rk_tariff_timber_furs_desc:0 "Las pieles y maderas del Norte pagan peajes más altos, enviando monedas a Desembarco del Rey pero enturbiando el comercio desde Puerto Blanco y más allá."
 
- rk_tariff_essos_imports: "Tariffs on Essossi Imports"
- rk_tariff_essos_imports_desc: "Silks, spices, and luxuries from the Free Cities now pass through the ports at a dearer price, to the enrichment of the Crown and the vexation of foreign merchants."  
+ rk_tariff_essos_imports:0 "Aranceles sobre importaciones de Essos"
+ rk_tariff_essos_imports_desc:0 "Las sedas, especias y lujos de las Ciudades Libres ahora cruzan los puertos a un precio mayor, enriqueciendo a la Corona y exasperando a los mercaderes extranjeros."  
  
- rk_has_loan: "Indebted to the Burghers"
- rk_has_loan_desc: "This Character owes money to the lenders of King's Landing."
+ rk_has_loan:0 "Endeudado con los burgueses"
+ rk_has_loan_desc:0 "Este personaje debe dinero a los prestamistas de Desembarco del Rey."
  
- 
-###KINGSGUARD MODIFIERS 
+ ###KINGSGUARD MODIFIERS 
+ rk_kingsguard_honor_1:0 "Vergüenza del reino"
+ rk_kingsguard_honor_1_desc:0 "Los votos de las Espadas Blancas no son más que susurros arrastrados por el viento."
 
+ rk_kingsguard_honor_2:0 "Guardia Real deshonrosa"
+ rk_kingsguard_honor_2_desc:0 "Susurros de debilidad rodean a la Guardia Real."
 
-rk_kingsguard_honor_1: "Shame of the Realm"
-rk_kingsguard_honor_1_desc: "The vows of the White Swords are but whispers in the wind."
-rk_kingsguard_honor_2: "Dishonorable Kingsguard"
-rk_kingsguard_honor_2_desc: "Whispers of weakness surround the Kingsguard."
-rk_kingsguard_honor_3: "Respected Kingsguard"
-rk_kingsguard_honor_3_desc: "The sworn brothers perform their duties with quiet resolve."
-rk_kingsguard_honor_4: "Honorable Kingsguard"
-rk_kingsguard_honor_4_desc: "Songs of loyalty and valor are sung of the White Swords."
-rk_kingsguard_honor_5: "Legendary Kingguard"
-rk_kingsguard_honor_5_desc: "The realm whispers of the unmatched loyalty and valor of the White Cloaks."
+ rk_kingsguard_honor_3:0 "Guardia Real respetada"
+ rk_kingsguard_honor_3_desc:0 "Los hermanos juramentados cumplen sus deberes con silenciosa determinación."
 
+ rk_kingsguard_honor_4:0 "Guardia Real honorable"
+ rk_kingsguard_honor_4_desc:0 "Se cantan canciones de lealtad y valor sobre las Espadas Blancas."
 
-rk_pirate_infestation: "Pirate Infestation"
-rk_pirate_infestation_desc: "Piracy is rampant in the Narrow Sea."
+ rk_kingsguard_honor_5:0 "Guardia Real legendaria"
+ rk_kingsguard_honor_5_desc:0 "El reino susurra sobre la lealtad y el valor inigualables de los Capas Blancas."
 
+ rk_pirate_infestation:0 "Infestación pirata"
+ rk_pirate_infestation_desc:0 "La piratería es desenfrenada en el Mar Angosto."
 
-rk_mining_dragonstone_1: "Mining Income"
-rk_mining_dragonstone_1_desc: "Profits from our mining operation in Dragonstone."
-rk_mining_dragonstone_2: "Mining Income"
-rk_mining_dragonstone_3_desc: "Profits from our mining operation in Dragonstone."
-rk_mining_dragonstone_4: "Mining Income"
-rk_mining_dragonstone_4_desc: "Profits from our mining operation in Dragonstone."
+ rk_mining_dragonstone_1:0 "Ingresos mineros"
+ rk_mining_dragonstone_1_desc:0 "Beneficios procedentes de nuestra operación minera en Rocadragón."
+ rk_mining_dragonstone_2:0 "Ingresos mineros"
+ rk_mining_dragonstone_2_desc:0 "Beneficios procedentes de nuestra operación minera en Rocadragón."
+ rk_mining_dragonstone_3:0 "Ingresos mineros"
+ rk_mining_dragonstone_3_desc:0 "Beneficios procedentes de nuestra operación minera en Rocadragón."
+ rk_mining_dragonstone_4:0 "Ingresos mineros"
+ rk_mining_dragonstone_4_desc:0 "Beneficios procedentes de nuestra operación minera en Rocadragón."
